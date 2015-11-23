@@ -894,6 +894,10 @@
                   spec: "p277601coll5"
                 - 
                   count: "1"
+                  name: "1917"
+                  spec: "p277601coll5"
+                - 
+                  count: "1"
                   name: "1919"
                   spec: "p277601coll5"
                 - 
@@ -1065,21 +1069,158 @@
               name: "Vassar College Libraries, Poughkeepsie, N.Y"
               total: "601"
             - 
+              coll: 
+                - 
+                  count: "6"
+                  name: "Arendtiana Collection"
+                  spec: "bard"
+                - 
+                  count: "11"
+                  name: "Bard - Tivoli History Collection"
+                  spec: "bard"
+                - 
+                  count: "51"
+                  name: "Bard College Architecture, Past and Present"
+                  spec: "bard"
+                - 
+                  count: "15"
+                  name: "Bard College Presidents"
+                  spec: "bard"
+                - 
+                  count: "9"
+                  name: "Bard Family Papers"
+                  spec: "bard"
+                - 
+                  count: "12"
+                  name: "Class Photos"
+                  spec: "bard"
+                - 
+                  count: "45"
+                  name: "Elie Shneour Collection"
+                  spec: "bard"
+                - 
+                  count: "25"
+                  name: "Harvey Fite Collection"
+                  spec: "bard"
+                - 
+                  count: "40"
+                  name: "Paul Hartzell Album"
+                  spec: "bard"
+                - 
+                  count: "32"
+                  name: "Peter Aaron Collection"
+                  spec: "bard"
+                - 
+                  count: "13"
+                  name: "Sports at St. Stephen's"
+                  spec: "bard"
+                - 
+                  count: "9"
+                  name: "Student Fire Department"
+                  spec: "bard"
+                - 
+                  count: "45"
+                  name: "Tivoli Collection"
+                  spec: "bard"
+                - 
+                  count: "13"
+                  name: "WXBC"
+                  spec: "bard"
+                - 
+                  count: "46"
+                  name: "Ward Manor Collection"
+                  spec: "bard"
               name: "Bard College. Bard College Archives"
               total: "501"
             - 
               name: "Chester Historical Society"
               total: "790"
             - 
+              coll: 
+                - 
+                  count: "5"
+                  name: "Cornwall Public Library"
+                  spec: "cornpl"
+                - 
+                  count: "4"
+                  name: "Cornwall Public Library Oral History Collection"
+                  spec: "cornpl"
+                - 
+                  count: "84"
+                  name: "Cornwall Public Library Postcard Collection"
+                  spec: "cornpl"
               name: "Cornwall Public Library"
               total: "98"
             - 
+              coll: 
+                - 
+                  count: "475"
+                  name: "Ellenville Postcard Collection"
+                  spec: "eplm"
+                - 
+                  count: "1"
+                  name: "Grand Army of the Republic Ward Post 191 Personal War Sketches Volume."
+                  spec: "eplm"
+                - 
+                  count: "1"
+                  name: "Yama Farms Collection"
+                  spec: "eplm"
               name: "Ellenville Public Library & Museum"
               total: "533"
             - 
+              coll: 
+                - 
+                  count: "44"
+                  name: "Charles Sylvester Piersaull Photograph Collection"
+                  spec: "fdr"
+                - 
+                  count: "2"
+                  name: "Hudson River Valley Materials of the Franklin D. Roosevelt Presidential Library and Museum"
+                  spec: "fdr"
               name: "Franklin D. Roosevelt Presidential Library and Museum"
               total: "83"
             - 
+              coll: 
+                - 
+                  count: "2"
+                  name: "A Notion to Sew"
+                  spec: "hhs"
+                - 
+                  count: "31"
+                  name: "Around the Table"
+                  spec: "hhs"
+                - 
+                  count: "92"
+                  name: "Before Hudson"
+                  spec: "hhs"
+                - 
+                  count: "32"
+                  name: "Education in a Valley Fair"
+                  spec: "hhs"
+                - 
+                  count: "15"
+                  name: "Faces and Places of the Past"
+                  spec: "hhs"
+                - 
+                  count: "37"
+                  name: "Katherine Deyo Cookingham Downer Collection"
+                  spec: "hhs"
+                - 
+                  count: "81"
+                  name: "Mary Chadeayne Lee"
+                  spec: "hhs"
+                - 
+                  count: "2"
+                  name: "The Civil War Letters of James Thitchener"
+                  spec: "hhs"
+                - 
+                  count: "6"
+                  name: "The Civil War Letters of Meeker Griffin"
+                  spec: "hhs"
+                - 
+                  count: "40"
+                  name: "The Colonial Manuscript Collection"
+                  spec: "hhs"
               name: "Historic Huguenot Street"
               total: "884"
             - 
@@ -1089,6 +1230,31 @@
               name: "Marlboro Free Library"
               total: "75"
             - 
+              coll: 
+                - 
+                  count: "64"
+                  name: "Edmund Blunt Topographic Map Collection"
+                  spec: "newburgh"
+                - 
+                  count: "66"
+                  name: "Frank Estabrook Collection"
+                  spec: "newburgh"
+                - 
+                  count: "59"
+                  name: "Glebe Documents Collection"
+                  spec: "newburgh"
+                - 
+                  count: "14"
+                  name: "Hudson-Fulton Celebration, 1909"
+                  spec: "newburgh"
+                - 
+                  count: "2"
+                  name: "James E. Horton Collection"
+                  spec: "newburgh"
+                - 
+                  count: "14"
+                  name: "Newburgh Free Library Historic Images"
+                  spec: "newburgh"
               name: "Newburgh Free Library"
               total: "288"
             - 
@@ -1102,15 +1268,98 @@
               name: "Palisades Interstate Park Commission"
               total: "1390"
             - 
+              coll: 
+                - 
+                  count: "29"
+                  name: "College Yearbook Collection"
+                  spec: "sunynp"
+                - 
+                  count: "2"
+                  name: "Education in a Valley Fair"
+                  spec: "sunynp"
+                - 
+                  count: "6"
+                  name: "Historic Photograph Collection"
+                  spec: "sunynp"
+                - 
+                  count: "14"
+                  name: "Pauline Nuzzolezze Staiano '52 Photo Album"
+                  spec: "sunynp"
               name: "SUNY New Paltz. Sojourner Truth Library"
               total: "100"
             - 
+              coll: 
+                - 
+                  count: "162"
+                  name: "Elizabeth Arey Photograph Collection"
+                  spec: "scpl"
+                - 
+                  count: "500"
+                  name: "Harold Haliday Costain Slide Collection"
+                  spec: "scpl"
+                - 
+                  count: "204"
+                  name: "Starkweather Room Photograph Collection"
+                  spec: "scpl"
               name: "Scarsdale Public Library"
               total: "867"
             - 
+              coll: 
+                - 
+                  count: "7"
+                  name: "Disaster Drill Photographs"
+                  spec: "vbmc"
+                - 
+                  count: "28"
+                  name: "Jane Secor Collection"
+                  spec: "vbmc"
+                - 
+                  count: "27"
+                  name: "VBMC Buildings & Grounds"
+                  spec: "vbmc"
+                - 
+                  count: "9"
+                  name: "VBMC Construction"
+                  spec: "vbmc"
+                - 
+                  count: "29"
+                  name: "VBMC Departments"
+                  spec: "vbmc"
+                - 
+                  count: "11"
+                  name: "VBMC Interior Photographs"
+                  spec: "vbmc"
+                - 
+                  count: "7"
+                  name: "VBMC Patient Care"
+                  spec: "vbmc"
+                - 
+                  count: "6"
+                  name: "VBMC Physicians"
+                  spec: "vbmc"
+                - 
+                  count: "13"
+                  name: "VBMC Physicians & Trustees"
+                  spec: "vbmc"
+                - 
+                  count: "13"
+                  name: "VBMC Seasonal Photographs"
+                  spec: "vbmc"
+                - 
+                  count: "14"
+                  name: "VBMC Trustees"
+                  spec: "vbmc"
+                - 
+                  count: "37"
+                  name: "Vassar Brothers Hospital School of Nursing"
+                  spec: "vbmc"
               name: "Vassar Brothers Medical Center"
               total: "588"
             - 
+              coll: 
+                count: "107"
+                name: "Suckley Family World War I Collection"
+                spec: "wilderstein"
               name: "Wilderstein Historic Site"
               total: "108"
         - 
@@ -1339,7 +1588,6 @@
                   name: "New York State Library-Digital Collections"
                   spec: "library1_lib"
               name: "New York State Library"
-
     owners: 
       owner: 
         - 
@@ -1440,6 +1688,67 @@
           total: "218"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Bard College Architecture, Past and Present"
+              total: "51"
+              spec: "bard"
+            - 
+              name: "Tivoli Collection"
+              total: "45"
+              spec: "bard"
+            - 
+              name: "Paul Hartzell Album"
+              total: "40"
+              spec: "bard"
+            - 
+              name: "Bard - Tivoli History Collection"
+              total: "11"
+              spec: "bard"
+            - 
+              name: "Ward Manor Collection"
+              total: "46"
+              spec: "bard"
+            - 
+              name: "Bard Family Papers"
+              total: "9"
+              spec: "bard"
+            - 
+              name: "Arendtiana Collection"
+              total: "6"
+              spec: "bard"
+            - 
+              name: "Harvey Fite Collection"
+              total: "25"
+              spec: "bard"
+            - 
+              name: "Elie Shneour Collection"
+              total: "45"
+              spec: "bard"
+            - 
+              name: "Student Fire Department"
+              total: "9"
+              spec: "bard"
+            - 
+              name: "WXBC"
+              total: "13"
+              spec: "bard"
+            - 
+              name: "Class Photos"
+              total: "12"
+              spec: "bard"
+            - 
+              name: "Bard College Presidents"
+              total: "15"
+              spec: "bard"
+            - 
+              name: "Peter Aaron Collection"
+              total: "32"
+              spec: "bard"
+            - 
+              name: "Sports at St. Stephen's"
+              total: "13"
+              spec: "bard"
           name: "Bard College. Bard College Archives"
           total: "501"
         - 
@@ -1593,6 +1902,19 @@
           total: "49"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Cornwall Public Library Postcard Collection"
+              total: "84"
+              spec: "cornpl"
+            - 
+              name: "Cornwall Public Library"
+              total: "5"
+              spec: "cornpl"
+            - 
+              name: "Cornwall Public Library Oral History Collection"
+              total: "4"
+              spec: "cornpl"
           name: "Cornwall Public Library"
           total: "98"
         - 
@@ -1643,6 +1965,19 @@
           total: "35"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Ellenville Postcard Collection"
+              total: "475"
+              spec: "eplm"
+            - 
+              name: "Yama Farms Collection"
+              total: "1"
+              spec: "eplm"
+            - 
+              name: "Grand Army of the Republic Ward Post 191 Personal War Sketches Volume."
+              total: "1"
+              spec: "eplm"
           name: "Ellenville Public Library & Museum"
           total: "533"
         - 
@@ -1683,6 +2018,15 @@
           total: "75"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Charles Sylvester Piersaull Photograph Collection"
+              total: "44"
+              spec: "fdr"
+            - 
+              name: "Hudson River Valley Materials of the Franklin D. Roosevelt Presidential Library and Museum"
+              total: "2"
+              spec: "fdr"
           name: "Franklin D. Roosevelt Presidential Library and Museum"
           total: "83"
         - 
@@ -1794,6 +2138,47 @@
           total: "122"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "The Colonial Manuscript Collection"
+              total: "40"
+              spec: "hhs"
+            - 
+              name: "Faces and Places of the Past"
+              total: "15"
+              spec: "hhs"
+            - 
+              name: "Katherine Deyo Cookingham Downer Collection"
+              total: "37"
+              spec: "hhs"
+            - 
+              name: "Education in a Valley Fair"
+              total: "32"
+              spec: "hhs"
+            - 
+              name: "Mary Chadeayne Lee"
+              total: "81"
+              spec: "hhs"
+            - 
+              name: "The Civil War Letters of James Thitchener"
+              total: "2"
+              spec: "hhs"
+            - 
+              name: "Before Hudson"
+              total: "92"
+              spec: "hhs"
+            - 
+              name: "A Notion to Sew"
+              total: "2"
+              spec: "hhs"
+            - 
+              name: "The Civil War Letters of Meeker Griffin"
+              total: "6"
+              spec: "hhs"
+            - 
+              name: "Around the Table"
+              total: "31"
+              spec: "hhs"
           name: "Historic Huguenot Street"
           total: "884"
         - 
@@ -1965,6 +2350,31 @@
           total: "70"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Glebe Documents Collection"
+              total: "59"
+              spec: "newburgh"
+            - 
+              name: "Edmund Blunt Topographic Map Collection"
+              total: "64"
+              spec: "newburgh"
+            - 
+              name: "Frank Estabrook Collection"
+              total: "66"
+              spec: "newburgh"
+            - 
+              name: "James E. Horton Collection"
+              total: "2"
+              spec: "newburgh"
+            - 
+              name: "Hudson-Fulton Celebration, 1909"
+              total: "14"
+              spec: "newburgh"
+            - 
+              name: "Newburgh Free Library Historic Images"
+              total: "14"
+              spec: "newburgh"
           name: "Newburgh Free Library"
           total: "288"
         - 
@@ -2266,6 +2676,23 @@
           total: "344"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "College Yearbook Collection"
+              total: "29"
+              spec: "sunynp"
+            - 
+              name: "Pauline Nuzzolezze Staiano '52 Photo Album"
+              total: "14"
+              spec: "sunynp"
+            - 
+              name: "Historic Photograph Collection"
+              total: "6"
+              spec: "sunynp"
+            - 
+              name: "Education in a Valley Fair"
+              total: "2"
+              spec: "sunynp"
           name: "SUNY New Paltz. Sojourner Truth Library"
           total: "100"
         - 
@@ -2361,6 +2788,19 @@
           total: "60"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Harold Haliday Costain Slide Collection"
+              total: "500"
+              spec: "scpl"
+            - 
+              name: "Elizabeth Arey Photograph Collection"
+              total: "162"
+              spec: "scpl"
+            - 
+              name: "Starkweather Room Photograph Collection"
+              total: "204"
+              spec: "scpl"
           name: "Scarsdale Public Library"
           total: "867"
         - 
@@ -2596,6 +3036,10 @@
               total: "51"
               spec: "p277601coll5"
             - 
+              name: "1917"
+              total: "1"
+              spec: "p277601coll5"
+            - 
               name: "1923"
               total: "1"
               spec: "p277601coll5"
@@ -2667,6 +3111,55 @@
           total: "32"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Vassar Brothers Hospital School of Nursing"
+              total: "37"
+              spec: "vbmc"
+            - 
+              name: "VBMC Departments"
+              total: "29"
+              spec: "vbmc"
+            - 
+              name: "VBMC Physicians & Trustees"
+              total: "13"
+              spec: "vbmc"
+            - 
+              name: "Disaster Drill Photographs"
+              total: "7"
+              spec: "vbmc"
+            - 
+              name: "VBMC Buildings & Grounds"
+              total: "27"
+              spec: "vbmc"
+            - 
+              name: "VBMC Interior Photographs"
+              total: "11"
+              spec: "vbmc"
+            - 
+              name: "VBMC Seasonal Photographs"
+              total: "13"
+              spec: "vbmc"
+            - 
+              name: "VBMC Patient Care"
+              total: "7"
+              spec: "vbmc"
+            - 
+              name: "VBMC Construction"
+              total: "9"
+              spec: "vbmc"
+            - 
+              name: "Jane Secor Collection"
+              total: "28"
+              spec: "vbmc"
+            - 
+              name: "VBMC Trustees"
+              total: "14"
+              spec: "vbmc"
+            - 
+              name: "VBMC Physicians"
+              total: "6"
+              spec: "vbmc"
           name: "Vassar Brothers Medical Center"
           total: "588"
         - 
@@ -2728,6 +3221,10 @@
           total: "998"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Suckley Family World War I Collection"
+            total: "107"
+            spec: "wilderstein"
           name: "Wilderstein Historic Site"
           total: "108"
         - 
