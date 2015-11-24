@@ -1,74 +1,98 @@
 .council .title {
-    font-weight: bold;
-    font-size:110%;
+  font-size: 110%;
+  font-weight: bold;
 }
 
 .provider .title {
-    font-weight: bold;
-    font-size:110%;
+  font-size: 100%;
+  font-weight: bold;
 }
 
 .provider .colls .coll {
-    padding-left:40px;
-    padding-top:4px;
-    padding-bottom:4px;
+  padding-bottom: 4px;
+  padding-left: 40px;
+  padding-top: 4px;
 }
 
 .council .colls {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 .council .coll {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 .provider .coll {
-    padding-left: 20px;
+  font-size: 95%;
+  padding-left: 20px;
 }
 
-.council .provider { display:none; }
-.provider .colls { display:none; padding-bottom:5px; }
-.wrapper .title { cursor: pointer; padding-bottom:5px; }
+.council .provider { display: none; }
+.provider .colls { display: none; padding-bottom: 5px; }
+.wrapper .title { cursor: pointer; padding-bottom: 5px; }
 
 .wrapper .owner {
-    font-weight:bold;
-    font-size:105%;
-    cursor: pointer;
-    padding-bottom: 5px;
-    color:#708090;
+  color: #708090;
+  cursor: pointer;
+  font-size: 105%;
+  font-weight: bold;
+  padding-bottom: 5px;
 }
+
 .wrapper table {
-    padding-left:20px;
+  padding-left: 20px;
+  width: 80%;
 }
 
 #providers {
-    display: none;
+  display: none;
 }
 
 .home .grand-total {
-    font-size: 120%;
-    padding-bottom: 5px;
+  font-size: 120%;
+  padding-bottom: 5px;
 }
 
 .home .grand-total strong {
-    font-weight: bolder;
-    color: #808080;
+  color: #647381;
+  font-weight: bolder;
 }
 
 .home .host-total {
-    padding-left: 15px;
-    font-size: 110%;
-    padding-bottom: 5px;
+  padding-left: 15px;
+  font-size: 110%;
+  padding-bottom: 5px;
 }
 
 .home .host-total strong {
-    font-weight: bolder;
-    color: #808080;
+  color: #a6998c;
+  font-weight: bolder;
+}
+
+.home .host-total em {
+  color: #8c8ca6;
+  font-style: normal;
+}
+
+.home .council-host-total {
+  font-size: 95%;
+  padding-bottom: 5px;
+  padding-left: 15px;
+}
+
+.home .council-host-total strong {
+  color: #a6998c;
+  font-weight: bolder;
+}
+
+.home .council-host-total em {
+  color: #8c8ca6;
+  font-style: normal;
 }
 
 #switcher {
-    cursor:pointer;
-    color:#0000ff;
-    font-size:105%;
-    padding-bottom: 12px;
+  cursor: pointer;
+  color: #0000ff;
+  font-size: 105%;
+  padding-bottom: 12px;
 }

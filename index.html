@@ -3,24 +3,24 @@ layout: default
 ---
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 
-<script src="js/show-hide.js"></script>
+<script src="js/show-hide.js" type="text/javascript"></script>
 
 <a id="top"></a>
 <div class="home">
   <div class="grand-total"><strong>Grand total</strong> {{ site.data.councils.repox.total }} ({{ site.data.councils.repox.hosting-totals.hosted-total }} hosted, {{ site.data.councils.repox.hosting-totals.non-hosted-total }} non-hosted)</div>
-  <div class="host-total"><strong>By host</strong> NYH {{ site.data.councils.repox.hosting-totals.nyh-total }} |  HRVH {{ site.data.councils.repox.hosting-totals.hrvh-total }} | DCMNY {{ site.data.councils.repox.hosting-totals.dcmny-total }}</div>
+  <div class="host-total"><strong>By host</strong> <em> NYH</em> {{ site.data.councils.repox.hosting-totals.nyh-total }} |  <em>HRVH</em> {{ site.data.councils.repox.hosting-totals.hrvh-total }} | <em>DCMNY</em> {{ site.data.councils.repox.hosting-totals.dcmny-total }}</div>
   <div id="switcher">View by provider</div>
   <div id="councils">
     {% for c in site.data.councils.repox.councils.council %}
     <div class="council">
       <div class="title"><img src="images/right.png"/>&nbsp;{{ c.name }}: {{ c.total }}</div>
 <div class="provider">
-  <div class="host-total"><strong>By host</strong> NYH {{ c.hosting-totals.nyh-council-total }} |  HRVH {{ c.hosting-totals.hrvh-council-total }} | DCMNY {{ c.hosting-totals.dcmny-council-total }}</div>
+  <div class="council-host-total"><strong>By host</strong> <em>NYH</em> {{ c.hosting-totals.nyh-council-total }} |  <em>HRVH</em> {{ c.hosting-totals.hrvh-council-total }} | <em>DCMNY</em> {{ c.hosting-totals.dcmny-council-total }}</div>
 	{% for p in c.provider %}
 	<div class="coll">
 	  <div class="owner"><img src="images/right.png"/>&nbsp;{{ p.name }}: {{ p.total }}</div>
 	  <div class="colls">
-	    <table>
+	    <table summary="colls">
 	      <tbody>
 		{% if p.coll['name'] != nil %}
 		<tr><td>{{ p.coll['name'] }}</td><td>{{ p.coll['count'] }}</td></tr>
