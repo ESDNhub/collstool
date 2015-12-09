@@ -5,12 +5,12 @@
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "13337"
+            nyh-council-total: "13345"
             non-hosted-total: "87"
-            council-hosted-total: "13337"
+            council-hosted-total: "13345"
             dcmny-council-total: "0"
           name: "Capital District Library Council"
-          total: "13424"
+          total: "13432"
           provider: 
             - 
               coll: 
@@ -55,7 +55,7 @@
                   name: "Yearbooks"
                   spec: "p16694coll26"
               name: "Albany Public Library"
-              total: "425"
+              total: "429"
             - 
               coll: 
                 - 
@@ -118,7 +118,7 @@
               total: "107"
             - 
               name: "Hudson Valley Community College"
-              total: "138"
+              total: "141"
             - 
               coll: 
                 - 
@@ -133,7 +133,7 @@
               total: "61"
             - 
               name: "Middleburgh Library"
-              total: "153"
+              total: "155"
             - 
               coll: 
                 - 
@@ -232,16 +232,16 @@
               total: "31"
             - 
               name: "miSci"
-              total: "6266"
+              total: "6265"
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "4144"
-            non-hosted-total: "1068"
-            council-hosted-total: "4144"
+            nyh-council-total: "4143"
+            non-hosted-total: "1067"
+            council-hosted-total: "4143"
             dcmny-council-total: "0"
           name: "Central New York Library Resources Council"
-          total: "5212"
+          total: "5210"
           provider: 
             - 
               name: "American Pomeroy Historic Genealogical Association"
@@ -264,7 +264,7 @@
               total: "67"
             - 
               name: "Central New York Library Resources Council"
-              total: "52"
+              total: "51"
             - 
               coll: 
                 count: "30"
@@ -372,7 +372,7 @@
                   name: "University Hospital"
                   spec: "sunyup01"
               name: "SUNY Upstate Medical University. Health Sciences Library"
-              total: "1007"
+              total: "1006"
             - 
               coll: 
                 count: "9"
@@ -430,10 +430,10 @@
             hrvh-council-total: "0"
             nyh-council-total: "0"
             non-hosted-total: "1904"
-            council-hosted-total: "18829"
-            dcmny-council-total: "18829"
+            council-hosted-total: "18832"
+            dcmny-council-total: "18832"
           name: "Metropolitan New York Library Council"
-          total: "20733"
+          total: "20736"
           provider: 
             - 
               coll: 
@@ -460,146 +460,142 @@
               coll: 
                 - 
                   count: "172"
-                  name: "Queens Borough Public Library-Wiliam Cahill Photographs"
+                  name: "Queens\n                            Borough Public Library-Wiliam Cahill Photographs"
                   spec: "collection10116"
                 - 
                   count: "342"
-                  name: "Queens Borough Public Library-Wiliam Murray Photographs"
+                  name: "Queens\n                            Borough Public Library-Wiliam Murray Photographs"
                   spec: "collection10431"
                 - 
                   count: "337"
-                  name: "Queens Borough Public Library-A. Noble Chapman Photographs"
+                  name: "Queens\n                            Borough Public Library-A. Noble Chapman Photographs"
                   spec: "collection10776"
                 - 
                   count: "198"
-                  name: "Queens Borough Public Library-Arthur Murray Photographs"
+                  name: "Queens\n                            Borough Public Library-Arthur Murray Photographs"
                   spec: "collection11115"
                 - 
                   count: "189"
-                  name: "Queens Borough Public Library-Arthur Greene Photographs"
+                  name: "Queens\n                            Borough Public Library-Arthur Greene Photographs"
                   spec: "collection11322"
                 - 
                   count: "168"
-                  name: "Queens Borough Public Library-Eugene Nichols Photographs"
+                  name: "Queens\n                            Borough Public Library-Eugene Nichols Photographs"
                   spec: "collection11526"
                 - 
                   count: "25"
-                  name: "Queens Borough Public Library-Good Citizenship Photographs"
+                  name: "Queens\n                            Borough Public Library-Good Citizenship Photographs"
                   spec: "collection11707"
                 - 
                   count: "9"
-                  name: "Queens Borough Public Library-Soldiers Sailors Photographs"
+                  name: "Queens\n                            Borough Public Library-Soldiers Sailors Photographs"
                   spec: "collection11733"
                 - 
                   count: "31"
-                  name: "Queens Borough Public Library-South Reformed Photographs"
+                  name: "Queens\n                            Borough Public Library-South Reformed Photographs"
                   spec: "collection11743"
                 - 
                   count: "521"
-                  name: "Queens Borough Public Library-Jacob Wieners Photographs"
+                  name: "Queens\n                            Borough Public Library-Jacob Wieners Photographs"
                   spec: "collection11775"
                 - 
                   count: "25"
-                  name: "Queens Borough Public Library-Anders Goldfarb Photographs"
+                  name: "Queens\n                            Borough Public Library-Anders Goldfarb Photographs"
                   spec: "collection2887"
                 - 
                   count: "271"
-                  name: "Queens Borough Public Library-Councilwoman Julia Photographs"
+                  name: "Queens\n                            Borough Public Library-Councilwoman Julia Photographs"
                   spec: "collection2913"
                 - 
                   count: "405"
-                  name: "Queens Borough Public Library-Hal Fullerton Photographs"
+                  name: "Queens\n                            Borough Public Library-Hal Fullerton Photographs"
                   spec: "collection3185"
                 - 
                   count: "101"
-                  name: "Queens Borough Public Library-James Henry Photographs"
+                  name: "Queens\n                            Borough Public Library-James Henry Photographs"
                   spec: "collection3591"
                 - 
                   count: "49"
-                  name: "Queens Borough Public Library-John Willis Photographs"
+                  name: "Queens\n                            Borough Public Library-John Willis Photographs"
                   spec: "collection3693"
                 - 
                   count: "96"
-                  name: "Queens Borough Public Library-Josiah Case Photographs"
+                  name: "Queens\n                            Borough Public Library-Josiah Case Photographs"
                   spec: "collection3743"
                 - 
                   count: "29"
-                  name: "Queens Borough Public Library-Oratorio Society Photographs"
-                  spec: "collection3840"
-                - 
-                  count: "1626"
-                  name: "Queens Borough Public Library-Queens Museum Photographs"
+                  name: "Queens\n                            Borough Public Library-Oratorio Society Photographs"
                   spec: "collection3840"
                 - 
                   count: "499"
-                  name: "Queens Borough Public Library-Public Service Photographs"
+                  name: "Queens\n                            Borough Public Library-Public Service Photographs"
                   spec: "collection3877"
                 - 
                   count: "446"
-                  name: "Queens Borough Public Library-Ralph Solecki Photographs"
+                  name: "Queens\n                            Borough Public Library-Ralph Solecki Photographs"
                   spec: "collection4377"
                 - 
                   count: "32"
-                  name: "Queens Borough Public Library-New York Tax Photographs"
+                  name: "Queens\n                            Borough Public Library-New York Tax Photographs"
                   spec: "collection475"
                 - 
                   count: "300"
-                  name: "Queens Borough Public Library-Sister Sonia Photographs"
+                  name: "Queens\n                            Borough Public Library-Sister Sonia Photographs"
                   spec: "collection4824"
                 - 
                   count: "413"
-                  name: "Queens Borough Public Library-William Erwin Photographs"
+                  name: "Queens\n                            Borough Public Library-William Erwin Photographs"
                   spec: "collection5125"
                 - 
                   count: "46"
-                  name: "Queens Borough Public Library-J. William Photographs"
+                  name: "Queens\n                            Borough Public Library-J. William Photographs"
                   spec: "collection5539"
                 - 
                   count: "6"
-                  name: "Queens Borough Public Library-Rogers Waters Photographs"
+                  name: "Queens\n                            Borough Public Library-Rogers Waters Photographs"
                   spec: "collection5603"
                 - 
-                  count: "43"
-                  name: {}
+                  count: "1628"
+                  name: "Queens\n                            Borough Public Library-Queens Museum Photographs"
                   spec: "collection5839"
                 - 
-                  count: "672"
-                  name: "Queens Borough Public Library-Borough President Photographs"
+                  count: "773"
+                  name: "Queens\n                            Borough Public Library-Borough President Photographs"
                   spec: "collection5922"
                 - 
                   count: "446"
-                  name: "Queens Borough Public Library-Aurora Gareiss Papers"
+                  name: "Queens\n                            Borough Public Library-Aurora Gareiss Papers"
                   spec: "collection5965"
                 - 
                   count: "10"
-                  name: "Queens Borough Public Library-Irene Devan Photographs"
+                  name: "Queens\n                            Borough Public Library-Irene Devan Photographs"
                   spec: "collection6412"
                 - 
                   count: "1548"
-                  name: "Queens Borough Public Library-Eugene Armbruster Photographs"
+                  name: "Queens\n                            Borough Public Library-Eugene Armbruster Photographs"
                   spec: "collection7837"
                 - 
                   count: "25"
-                  name: "Queens Borough Public Library-Joseph Burt Photographs"
+                  name: "Queens\n                            Borough Public Library-Joseph Burt Photographs"
                   spec: "collection9386"
                 - 
                   count: "30"
-                  name: "Queens Borough Public Library-Erwin Ma Photographs"
+                  name: "Queens\n                            Borough Public Library-Erwin Ma Photograph"
                   spec: "collection9412"
                 - 
                   count: "352"
-                  name: "Queens Borough Public Library-William Rugen Photographs"
+                  name: "Queens\n                            Borough Public Library-William Rugen Photographs"
                   spec: "collection9443"
               name: "Queens Borough Public Library"
-              total: "9465"
+              total: "9566"
             - 
               coll: 
                 - 
-                  count: "4234"
+                  count: "4235"
                   name: "New York Philharmonic Business Records Collection"
                   spec: "BusinessRecords"
                 - 
-                  count: "15918"
+                  count: "15932"
                   name: "New York Philharmonic Music Parts Collection"
                   spec: "MusicParts"
                 - 
@@ -607,11 +603,11 @@
                   name: "New York Philharmonic Music Scores Collection"
                   spec: "MusicScores"
                 - 
-                  count: "12915"
+                  count: "12942"
                   name: "New York Philharmonic Program Collection"
                   spec: "Programs"
               name: "New York Philharmonic Leon Levy Digital Archives"
-              total: "34832"
+              total: "34874"
             - 
               coll: 
                 - 
@@ -626,11 +622,11 @@
               total: "328"
             - 
               coll: 
-                count: "224"
+                count: "227"
                 name: "Cartes de Visite Collection"
                 spec: "nyam_cartesdevisites"
               name: "New York Academy of Medicine"
-              total: "224"
+              total: "227"
             - 
               coll: 
                 - 
@@ -684,11 +680,11 @@
           hosting-totals: 
             hrvh-council-total: "0"
             nyh-council-total: "95"
-            non-hosted-total: "3428"
+            non-hosted-total: "3443"
             council-hosted-total: "95"
             dcmny-council-total: "0"
           name: "Northern New York Library Network"
-          total: "3523"
+          total: "3538"
           provider: 
             - 
               coll: 
@@ -731,19 +727,19 @@
               total: "418"
             - 
               name: "St. Lawrence-Lewis School Library System"
-              total: "1670"
+              total: "1685"
             - 
               name: "Watertown Flower Memorial Library"
               total: "95"
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "4123"
-            non-hosted-total: "2237"
-            council-hosted-total: "4123"
+            nyh-council-total: "4268"
+            non-hosted-total: "2239"
+            council-hosted-total: "4268"
             dcmny-council-total: "0"
           name: "Rochester Regional Library Council"
-          total: "6360"
+          total: "6507"
           provider: 
             - 
               coll: 
@@ -783,7 +779,7 @@
                   name: "Geneva James G. Vail collection"
                   spec: "p15109coll6"
                 - 
-                  count: "1357"
+                  count: "1502"
                   name: "Oakley Photographs"
                   spec: "p15109coll6"
                 - 
@@ -791,7 +787,7 @@
                   name: "Stereograph Card Collection of Geneva"
                   spec: "p15109coll6"
               name: "Geneva Historical Society"
-              total: "3253"
+              total: "3398"
             - 
               coll: 
                 count: "131"
@@ -965,16 +961,16 @@
                   name: "Watson Film Scrapbook"
                   spec: "p277601coll5"
               name: "University of Rochester. Memorial Art Gallery"
-              total: "1338"
+              total: "1340"
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "1767"
+            nyh-council-total: "1770"
             non-hosted-total: "0"
-            council-hosted-total: "1767"
+            council-hosted-total: "1770"
             dcmny-council-total: "0"
           name: "South Central Regional Library Council"
-          total: "1767"
+          total: "1770"
           provider: 
             - 
               coll: 
@@ -985,7 +981,7 @@
               total: "266"
             - 
               name: "Corning Community College"
-              total: "49"
+              total: "52"
             - 
               name: "Elmira College"
               total: "106"
@@ -1012,13 +1008,13 @@
               total: "12"
         - 
           hosting-totals: 
-            hrvh-council-total: "12018"
+            hrvh-council-total: "12019"
             nyh-council-total: "0"
-            non-hosted-total: "684"
-            council-hosted-total: "12018"
+            non-hosted-total: "2835"
+            council-hosted-total: "12019"
             dcmny-council-total: "0"
           name: "Southeastern New York Library Resources Council"
-          total: "12702"
+          total: "14854"
           provider: 
             - 
               coll: 
@@ -1027,11 +1023,11 @@
                   name: "Culinary Institute of America Menus"
                   spec: "cia_menu"
                 - 
-                  count: "1893"
+                  count: "2008"
                   name: "Historical Menus"
                   spec: "cia_menu"
                 - 
-                  count: "480"
+                  count: "561"
                   name: "International Menus"
                   spec: "cia_menu"
                 - 
@@ -1039,7 +1035,7 @@
                   name: "S. S. Cleveland Around the World Cruise"
                   spec: "cia_menu"
               name: "The Culinary Institute of America"
-              total: "2217"
+              total: "2332"
             - 
               coll: 
                 - 
@@ -1180,6 +1176,9 @@
               name: "Franklin D. Roosevelt Presidential Library and Museum"
               total: "83"
             - 
+              name: "Haverstraw King's Daughters Public Library"
+              total: "219"
+            - 
               coll: 
                 - 
                   count: "2"
@@ -1231,6 +1230,16 @@
               total: "75"
             - 
               coll: 
+                count: "2"
+                name: "Library Association of Rockland County"
+                spec: "larc"
+              name: "Nanuet Public Library"
+              total: "2"
+            - 
+              name: "New City Library"
+              total: "383"
+            - 
+              coll: 
                 - 
                   count: "64"
                   name: "Edmund Blunt Topographic Map Collection"
@@ -1261,12 +1270,21 @@
               name: "Nyack Library"
               total: "5611"
             - 
+              name: "Palisades Free Library"
+              total: "333"
+            - 
               coll: 
                 count: "1046"
                 name: "Lantern Slides"
                 spec: "pipc"
               name: "Palisades Interstate Park Commission"
               total: "1390"
+            - 
+              name: "Pearl River Library"
+              total: "144"
+            - 
+              name: "Piermont Public Library"
+              total: "232"
             - 
               coll: 
                 - 
@@ -1294,7 +1312,7 @@
                   name: "Elizabeth Arey Photograph Collection"
                   spec: "scpl"
                 - 
-                  count: "500"
+                  count: "501"
                   name: "Harold Haliday Costain Slide Collection"
                   spec: "scpl"
                 - 
@@ -1302,7 +1320,16 @@
                   name: "Starkweather Room Photograph Collection"
                   spec: "scpl"
               name: "Scarsdale Public Library"
-              total: "867"
+              total: "868"
+            - 
+              name: "Suffern Free Library"
+              total: "89"
+            - 
+              name: "Tappan Library"
+              total: "104"
+            - 
+              name: "Tomkins Cove Public Library"
+              total: "147"
             - 
               coll: 
                 - 
@@ -1365,12 +1392,12 @@
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "11263"
+            nyh-council-total: "11274"
             non-hosted-total: "1620"
-            council-hosted-total: "11263"
+            council-hosted-total: "11274"
             dcmny-council-total: "0"
           name: "Western New York Library Resources Council"
-          total: "12883"
+          total: "12894"
           provider: 
             - 
               coll: 
@@ -1567,27 +1594,50 @@
                   name: "Thomas B. Lockwood"
                   spec: "p16694coll1"
                 - 
-                  count: "304"
+                  count: "315"
                   name: "Twentieth Century Club of Buffalo"
                   spec: "p16694coll1"
               name: "University at Buffalo"
-              total: "2936"
+              total: "2947"
         - 
-          hosting-totals: 
-            hrvh-council-total: "0"
-            nyh-council-total: "0"
-            non-hosted-total: "57833"
-            council-hosted-total: "57833"
-            dcmny-council-total: "0"
           name: "Government Agencies"
-          total: "57833"
-          provider:
-            -
+          total: "69482"
+          provider: 
+            - 
               coll: 
-                  count: "57833"
-                  name: "New York State Library-Digital Collections"
-                  spec: "library1_lib"
+                count: "57833"
+                name: "New York State Library-Digital Collections"
+                spec: "library1_lib"
               name: "New York State Library"
+              total: "57833"
+            - 
+              coll: 
+                - 
+                  count: "2163"
+                  name: "Aerial photographic prints and negatives of New York State sites"
+                  spec: "1789"
+                - 
+                  count: "986"
+                  name: "Canal system survey maps"
+                  spec: "4692"
+                - 
+                  count: "3669"
+                  name: "Instructional lantern slides"
+                  spec: "4243"
+                - 
+                  count: "4207"
+                  name: "Photographic prints and negatives"
+                  spec: "3186"
+                - 
+                  count: "2"
+                  name: "Photographic prints and negatives;Photographic prints and negatives"
+                  spec: "3186"
+                - 
+                  count: "622"
+                  name: "Public information photographs"
+                  spec: "2965"
+              name: "New York State Archives"
+              total: "11649"
     owners: 
       owner: 
         - 
@@ -1601,73 +1651,103 @@
               name: "The Barbara Parnass Slide Collection"
               total: "452"
               spec: "p16694coll9"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64703"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Adirondack Architectural Heritage"
           total: "1043"
         - 
           council: "Capital District Library Council"
           coll: 
             - 
+              name: "Albany Law School Alumni"
+              total: "11"
+              spec: "als"
+            - 
               name: "Albany Law School Architecture Collection"
               total: "10"
               spec: "als"
             - 
-              name: "Albany Law School Graduation Photograph Collection"
-              total: "4"
-              spec: "als"
-            - 
-              name: "Albany Law School Alumni"
-              total: "11"
+              name: "Albany Law School Associations"
+              total: "2"
               spec: "als"
             - 
               name: "Albany Law School Collection"
               total: "3"
               spec: "als"
             - 
-              name: "Albany Law School Associations"
-              total: "2"
+              name: "Albany Law School Graduation Photograph Collection"
+              total: "4"
               spec: "als"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65716"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Albany Law School"
           total: "30"
         - 
           council: "Capital District Library Council"
           coll: 
             - 
-              name: "Residential Albany, New York"
-              total: "151"
-              spec: "p16694coll26"
-            - 
               name: "Commercial Streets of Albany"
               total: "168"
-              spec: "p16694coll26"
-            - 
-              name: "Yearbooks"
-              total: "1"
               spec: "p16694coll26"
             - 
               name: "Religious Albany"
               total: "78"
               spec: "p16694coll26"
+            - 
+              name: "Residential Albany, New York"
+              total: "151"
+              spec: "p16694coll26"
+            - 
+              name: "Yearbooks"
+              total: "1"
+              spec: "p16694coll26"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65317"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Albany Public Library"
-          total: "425"
+          total: "429"
         - 
           council: "South Central Regional Library Council"
           coll: 
             name: "Alfred University Postcard Collection"
             total: "266"
             spec: "p261501coll7"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65480"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Alfred University"
           total: "266"
         - 
           council: "Capital District Library Council"
           coll: 
             - 
-              name: "Altamont Train Station Collection"
-              total: "9"
-              spec: "alf"
-            - 
               name: "Altamont Collection"
               total: "1"
               spec: "alf"
+            - 
+              name: "Altamont Train Station Collection"
+              total: "9"
+              spec: "alf"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65736"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Altamont Free Library"
           total: "10"
         - 
@@ -1676,70 +1756,72 @@
             name: "American Jewish Joint Distribution Committee Archives"
             total: "9"
             spec: "jdc"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65737"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "American Jewish Joint Distribution Committee Archives"
           total: "9"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65594"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "American Pomeroy Historic Genealogical Association"
           total: "152"
         - 
           council: "Rochester Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65528"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Appellate Division, Fourth Department Law Library"
           total: "218"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
             - 
-              name: "Bard College Architecture, Past and Present"
-              total: "51"
-              spec: "bard"
-            - 
-              name: "Tivoli Collection"
-              total: "45"
-              spec: "bard"
-            - 
-              name: "Paul Hartzell Album"
-              total: "40"
+              name: "Arendtiana Collection"
+              total: "6"
               spec: "bard"
             - 
               name: "Bard - Tivoli History Collection"
               total: "11"
               spec: "bard"
             - 
-              name: "Ward Manor Collection"
-              total: "46"
+              name: "Bard College Architecture, Past and Present"
+              total: "51"
+              spec: "bard"
+            - 
+              name: "Bard College Presidents"
+              total: "15"
               spec: "bard"
             - 
               name: "Bard Family Papers"
               total: "9"
               spec: "bard"
             - 
-              name: "Arendtiana Collection"
-              total: "6"
-              spec: "bard"
-            - 
-              name: "Harvey Fite Collection"
-              total: "25"
+              name: "Class Photos"
+              total: "12"
               spec: "bard"
             - 
               name: "Elie Shneour Collection"
               total: "45"
               spec: "bard"
             - 
-              name: "Student Fire Department"
-              total: "9"
+              name: "Harvey Fite Collection"
+              total: "25"
               spec: "bard"
             - 
-              name: "WXBC"
-              total: "13"
-              spec: "bard"
-            - 
-              name: "Class Photos"
-              total: "12"
-              spec: "bard"
-            - 
-              name: "Bard College Presidents"
-              total: "15"
+              name: "Paul Hartzell Album"
+              total: "40"
               spec: "bard"
             - 
               name: "Peter Aaron Collection"
@@ -1749,6 +1831,28 @@
               name: "Sports at St. Stephen's"
               total: "13"
               spec: "bard"
+            - 
+              name: "Student Fire Department"
+              total: "9"
+              spec: "bard"
+            - 
+              name: "Tivoli Collection"
+              total: "45"
+              spec: "bard"
+            - 
+              name: "WXBC"
+              total: "13"
+              spec: "bard"
+            - 
+              name: "Ward Manor Collection"
+              total: "46"
+              spec: "bard"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65245"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Bard College. Bard College Archives"
           total: "501"
         - 
@@ -1757,6 +1861,12 @@
             name: "Bethlehem Public Library"
             total: "44"
             spec: "bpl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65702"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Bethlehem Public Library"
           total: "44"
         - 
@@ -1770,39 +1880,51 @@
               name: "Brooklyn Public Library-Fulton Street Trade Cards"
               total: "251"
               spec: "fulton_collection"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65418"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Brooklyn Public Library"
           total: "328"
         - 
           council: "Western New York Library Resources Council"
           coll: 
             - 
-              name: "New York to Paris Race"
-              total: "2"
-              spec: "VHB001"
-            - 
-              name: "Buffalo Photograph Collection: Lantern slides, circa 1890-1910"
-              total: "19"
-              spec: "VHB001"
-            - 
               name: "175th Anniversary of the Buffalo & Erie County Public Library"
               total: "43"
-              spec: "VHB001"
-            - 
-              name: "War of 1812 Letters from the Young Men's Association"
-              total: "12"
               spec: "VHB001"
             - 
               name: "1825, a Pivotal Year on the Niagara Frontier"
               total: "6"
               spec: "VHB001"
             - 
+              name: "Buffalo City Directories"
+              total: "31"
+              spec: "VHB011"
+            - 
+              name: "Buffalo Photograph Collection: Lantern slides, circa 1890-1910"
+              total: "19"
+              spec: "VHB001"
+            - 
+              name: "New York to Paris Race"
+              total: "2"
+              spec: "VHB001"
+            - 
               name: "Pan-American Exposition Scrapbooks"
               total: "24"
               spec: "VHB001"
             - 
-              name: "Buffalo City Directories"
-              total: "31"
-              spec: "VHB011"
+              name: "War of 1812 Letters from the Young Men's Association"
+              total: "12"
+              spec: "VHB001"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65418"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Buffalo & Erie County Public Library"
           total: "328"
         - 
@@ -1811,6 +1933,12 @@
             name: "Bentley Snow Crystal Collection"
             total: "6125"
             spec: "BSM001"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-59621"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Buffalo Museum of Science"
           total: "6125"
         - 
@@ -1824,19 +1952,27 @@
               name: "League of Women Voters of Amherst"
               total: "20"
               spec: "R6A001"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65656"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Buffalo Niagara Heritage Village"
           total: "90"
         - 
           council: "Western New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65328"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Buffalo Olmsted Parks Conservancy"
           total: "418"
         - 
           council: "Central New York Library Resources Council"
           coll: 
-            - 
-              name: "Early Canastota Collection"
-              total: "19"
-              spec: "p16694coll13"
             - 
               name: "Canastota Schools Collection"
               total: "35"
@@ -1845,10 +1981,26 @@
               name: "Early Canastota Business Collection"
               total: "5"
               spec: "p16694coll13"
+            - 
+              name: "Early Canastota Collection"
+              total: "19"
+              spec: "p16694coll13"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65679"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Canastota Public Library"
           total: "67"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65726"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Capital District Library Council"
           total: "20"
         - 
@@ -1857,6 +2009,12 @@
             name: "Jessie Bonnie Monroe Fashion Illustration Collection"
             total: "98"
             spec: "cazcoll01"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65648"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Cazenovia\n      College. Library"
           total: "98"
         - 
@@ -1865,23 +2023,51 @@
             name: "Nickell Collection of Dr. R.V. Pierce Medical Artifacts"
             total: "17"
             spec: "ZCQ001"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65729"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Center for Inquiry Libraries"
           total: "17"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65695"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Central New York Library Resources Council"
-          total: "52"
+          total: "51"
         - 
           council: "Western New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65518"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Chautauqua County Historical Society"
           total: "228"
         - 
           council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64956"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Chester Historical Society"
           total: "790"
         - 
           council: "Capital District Library Council"
           coll: 
+            - 
+              name: "Pre-Shenendehowa Schools Collection"
+              total: "15"
+              spec: "cphpl"
             - 
               name: "Town of Clifton Park History Collection"
               total: "73"
@@ -1890,23 +2076,27 @@
               name: "Town of Halfmoon Historian's Collection"
               total: "4"
               spec: "cphpl"
-            - 
-              name: "Pre-Shenendehowa Schools Collection"
-              total: "15"
-              spec: "cphpl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65208"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Clifton Park-Halfmoon Public Library"
           total: "538"
         - 
           council: "South Central Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65694"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Corning Community College"
-          total: "49"
+          total: "52"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
-            - 
-              name: "Cornwall Public Library Postcard Collection"
-              total: "84"
-              spec: "cornpl"
             - 
               name: "Cornwall Public Library"
               total: "5"
@@ -1915,10 +2105,26 @@
               name: "Cornwall Public Library Oral History Collection"
               total: "4"
               spec: "cornpl"
+            - 
+              name: "Cornwall Public Library Postcard Collection"
+              total: "84"
+              spec: "cornpl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65648"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Cornwall Public Library"
           total: "98"
         - 
           council: "Western New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65716"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "D'Youville College"
           total: "30"
         - 
@@ -1927,15 +2133,17 @@
             name: "Dewitt Community Library History Collection"
             total: "30"
             spec: "dewitt01"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65716"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "DeWitt Community Library"
           total: "30"
         - 
           council: "Capital District Library Council"
           coll: 
-            - 
-              name: "San Luis Observatory"
-              total: "174"
-              spec: "dudleyo"
             - 
               name: "Dudley Observatory Artifacts"
               total: "2"
@@ -1944,15 +2152,21 @@
               name: "Dudley Observatory Historical Archives"
               total: "31"
               spec: "dudleyo"
+            - 
+              name: "San Luis Observatory"
+              total: "174"
+              spec: "dudleyo"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65506"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Dudley Observatory"
           total: "240"
         - 
           council: "Central New York Library Resources Council"
           coll: 
-            - 
-              name: "Whitestown Seminary"
-              total: "9"
-              spec: "p16694coll38"
             - 
               name: "Dunham Family Collection"
               total: "25"
@@ -1961,6 +2175,16 @@
               name: "Scrapbook of Ablett Mill"
               total: "1"
               spec: "p16694coll38"
+            - 
+              name: "Whitestown Seminary"
+              total: "9"
+              spec: "p16694coll38"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65711"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Dunham Public Library"
           total: "35"
         - 
@@ -1971,17 +2195,29 @@
               total: "475"
               spec: "eplm"
             - 
-              name: "Yama Farms Collection"
-              total: "1"
-              spec: "eplm"
-            - 
               name: "Grand Army of the Republic Ward Post 191 Personal War Sketches Volume."
               total: "1"
               spec: "eplm"
+            - 
+              name: "Yama Farms Collection"
+              total: "1"
+              spec: "eplm"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65213"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Ellenville Public Library & Museum"
           total: "533"
         - 
           council: "South Central Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65640"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Elmira College"
           total: "106"
         - 
@@ -1990,6 +2226,12 @@
             name: "Verbal History of Erie Community College"
             total: "4"
             spec: "YJL"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65742"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Erie Community College"
           total: "4"
         - 
@@ -1998,10 +2240,22 @@
             name: "Erieville Nelson Historic Collection"
             total: "216"
             spec: "srr_enhs"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65530"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Erieville-Nelson Heritage Society"
           total: "216"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65499"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Fayetteville Free Library"
           total: "247"
         - 
@@ -2010,10 +2264,22 @@
             name: "Fordham University-Italian Pamphlets Collection"
             total: "143"
             spec: "italianPamp"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65603"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Fordham University"
           total: "143"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65671"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Fort Plain Free Library"
           total: "75"
         - 
@@ -2027,10 +2293,22 @@
               name: "Hudson River Valley Materials of the Franklin D. Roosevelt Presidential Library and Museum"
               total: "2"
               spec: "fdr"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65663"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Franklin D. Roosevelt Presidential Library and Museum"
           total: "83"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65639"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Fulton-Montgomery Community College"
           total: "107"
         - 
@@ -2039,19 +2317,17 @@
             name: "Genesee Community College History"
             total: "43"
             spec: "YJA"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65703"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Genesee Community College"
           total: "43"
         - 
           council: "Rochester Regional Library Council"
           coll: 
-            - 
-              name: "Geneva James G. Vail Collection"
-              total: "311"
-              spec: "p15109coll6"
-            - 
-              name: "Geneva James G. Vail collection"
-              total: "127"
-              spec: "p15109coll6"
             - 
               name: "Geneva Civil War Collection"
               total: "11"
@@ -2061,25 +2337,45 @@
               total: "4"
               spec: "p15109coll6"
             - 
-              name: "Stereograph Card Collection of Geneva"
-              total: "414"
-              spec: "p15109coll6"
-            - 
               name: "Geneva Historical Society Postcard Collection"
               total: "548"
               spec: "p15109coll6"
             - 
-              name: "Oakley Photographs"
-              total: "1357"
+              name: "Geneva James G. Vail Collection"
+              total: "311"
               spec: "p15109coll6"
+            - 
+              name: "Geneva James G. Vail collection"
+              total: "127"
+              spec: "p15109coll6"
+            - 
+              name: "Oakley Photographs"
+              total: "1502"
+              spec: "p15109coll6"
+            - 
+              name: "Stereograph Card Collection of Geneva"
+              total: "414"
+              spec: "p15109coll6"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-62348"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Geneva Historical Society"
-          total: "3253"
+          total: "3398"
         - 
           council: "Rochester Regional Library Council"
           coll: 
             name: "Geneva Public Library Digital Collection"
             total: "131"
             spec: "JSY"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65615"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Geneva Public Library"
           total: "131"
         - 
@@ -2088,6 +2384,12 @@
             name: "Tupper Lake Public Library Photograph Collection"
             total: "281"
             spec: "tupper"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65449"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Goff-Nelson Memorial Library"
           total: "297"
         - 
@@ -2101,6 +2403,12 @@
               name: "NY Ontario & Western Railway Photographs"
               total: "37"
               spec: "srr_ham"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65692"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Hamilton Public Library"
           total: "54"
         - 
@@ -2109,8 +2417,24 @@
             name: "Harrison Public Library-Harrison Remembers Digital Collection"
             total: "70"
             spec: "HarrisonDigital"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65676"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Harrison Public Library"
           total: "70"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65527"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Haverstraw King's Daughters Public Library"
+          total: "219"
         - 
           council: "Rochester Regional Library Council"
           coll: 
@@ -2122,6 +2446,12 @@
               name: "Henrietta Local History Collection"
               total: "27"
               spec: "p15109coll1"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65673"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Henrietta Public Library"
           total: "73"
         - 
@@ -2130,18 +2460,42 @@
             name: "Allan Herschell Ride Archive"
             total: "19"
             spec: "NYCSN"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65727"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Herschell Carrousel Factory Museum"
           total: "19"
         - 
           council: "Rochester Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65624"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Highland Hospital. Library"
           total: "122"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
             - 
-              name: "The Colonial Manuscript Collection"
-              total: "40"
+              name: "A Notion to Sew"
+              total: "2"
+              spec: "hhs"
+            - 
+              name: "Around the Table"
+              total: "31"
+              spec: "hhs"
+            - 
+              name: "Before Hudson"
+              total: "92"
+              spec: "hhs"
+            - 
+              name: "Education in a Valley Fair"
+              total: "32"
               spec: "hhs"
             - 
               name: "Faces and Places of the Past"
@@ -2152,10 +2506,6 @@
               total: "37"
               spec: "hhs"
             - 
-              name: "Education in a Valley Fair"
-              total: "32"
-              spec: "hhs"
-            - 
               name: "Mary Chadeayne Lee"
               total: "81"
               spec: "hhs"
@@ -2164,26 +2514,28 @@
               total: "2"
               spec: "hhs"
             - 
-              name: "Before Hudson"
-              total: "92"
-              spec: "hhs"
-            - 
-              name: "A Notion to Sew"
-              total: "2"
-              spec: "hhs"
-            - 
               name: "The Civil War Letters of Meeker Griffin"
               total: "6"
               spec: "hhs"
             - 
-              name: "Around the Table"
-              total: "31"
+              name: "The Colonial Manuscript Collection"
+              total: "40"
               spec: "hhs"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64862"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Historic Huguenot Street"
           total: "884"
         - 
           council: "Rochester Regional Library Council"
           coll: 
+            - 
+              name: "Elon Howard Eaton Ornithology Collection"
+              total: "55"
+              spec: "p277601coll11"
             - 
               name: "HWS Vail Photograph Collection"
               total: "258"
@@ -2192,39 +2544,71 @@
               name: "Taylor Civil War Letters"
               total: "31"
               spec: "p277601coll11"
-            - 
-              name: "Elon Howard Eaton Ornithology Collection"
-              total: "55"
-              spec: "p277601coll11"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65400"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Hobart and William Smith Colleges. Warren Hunting Smith Library"
           total: "346"
         - 
           council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64960"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Hudson River Valley Institute"
           total: "786"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65605"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Hudson Valley Community College"
-          total: "138"
+          total: "141"
         - 
           council: "South Central Regional Library Council"
           coll: 
             - 
-              name: "Ithaca College Photographs"
-              total: "845"
-              spec: "p4020coll5"
-            - 
               name: "Ithaca College History Project"
               total: "89"
               spec: "p4020coll5"
+            - 
+              name: "Ithaca College Photographs"
+              total: "845"
+              spec: "p4020coll5"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64806"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Ithaca College"
           total: "940"
         - 
           council: "Western New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65698"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Lewiston Public Library"
           total: "48"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-63605"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Liverpool Public Library"
           total: "2141"
         - 
@@ -2233,6 +2617,12 @@
             name: "Polster Photographs of Lockport, NY"
             total: "517"
             spec: "p15004coll9"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65229"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Lockport\n              Public Library"
           total: "517"
         - 
@@ -2246,42 +2636,102 @@
               name: "Maureen O'Sullivan Cushing Collection of Maria College Albany NY"
               total: "7"
               spec: "maria"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65685"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Maria College"
           total: "61"
         - 
           council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65671"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Marlboro Free Library"
           total: "75"
         - 
           council: "South Central Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65475"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "McGraw Historical Society"
           total: "271"
         - 
           council: "Rochester Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65698"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Mendon Public Library"
           total: "48"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65591"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Middleburgh Library"
-          total: "153"
+          total: "155"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "2"
+            spec: "larc"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65744"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Nanuet Public Library"
+          total: "2"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65363"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "New City Library"
+          total: "383"
         - 
           council: "Metropolitan New York Library Council"
           coll: 
             name: "Cartes de Visite Collection"
-            total: "224"
+            total: "227"
             spec: "nyam_cartesdevisites"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65519"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "New York Academy of Medicine"
-          total: "224"
+          total: "227"
         - 
           council: {}
           coll: 
             - 
               name: "New York Philharmonic Business Records Collection"
-              total: "4234"
+              total: "4235"
               spec: "BusinessRecords"
             - 
               name: "New York Philharmonic Music Parts Collection"
-              total: "15918"
+              total: "15932"
               spec: "MusicParts"
             - 
               name: "New York Philharmonic Music Scores Collection"
@@ -2289,50 +2739,109 @@
               spec: "MusicScores"
             - 
               name: "New York Philharmonic Program Collection"
-              total: "12915"
+              total: "12942"
               spec: "Programs"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-30872"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "New York Philharmonic Leon Levy Digital Archives"
-          total: "34832"
+          total: "34874"
+        - 
+          council: {}
+          coll: 
+            - 
+              name: "Aerial photographic prints and negatives of New York State sites"
+              total: "2163"
+              spec: "1789"
+            - 
+              name: "Canal system survey maps"
+              total: "986"
+              spec: "4692"
+            - 
+              name: "Instructional lantern slides"
+              total: "3669"
+              spec: "4243"
+            - 
+              name: "Photographic prints and negatives"
+              total: "4207"
+              spec: "3186"
+            - 
+              name: "Photographic prints and negatives;Photographic prints and negatives"
+              total: "2"
+              spec: "3186"
+            - 
+              name: "Public information photographs"
+              total: "622"
+              spec: "2965"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-54097"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "New York State Archives"
+          total: "11649"
         - 
           council: {}
           coll: 
             name: "New York State Library-Digital Collections"
             total: "57833"
             spec: "library1_lib"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-7913"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "New York State Library"
           total: "57833"
         - 
           council: "Capital District Library Council"
           coll: 
             - 
-              name: "Civil War Carte de Visite Collection"
-              total: "1492"
+              name: "15th New York National Guard Enlistment Records"
+              total: "2596"
               spec: "nysmm"
             - 
               name: "27th Division in World War Two"
               total: "1"
               spec: "nysmm"
             - 
-              name: "15th New York National Guard Enlistment Records"
-              total: "2596"
+              name: "Civil War Carte de Visite Collection"
+              total: "1492"
               spec: "nysmm"
             - 
               name: "Diaries"
               total: "2"
               spec: "nysmm"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-61651"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "New York State Military Museum"
           total: "4095"
         - 
           council: "Metropolitan New York Library Council"
           coll: 
             - 
-              name: "Robert L. Bracklow Photograph Collection"
-              total: "2088"
-              spec: "nyhs_bracklow"
-            - 
               name: "New-York Historical Society-Photographs of New York City and Beyond"
               total: "16186"
               spec: "photosnycbeyond_collection"
+            - 
+              name: "Robert L. Bracklow Photograph Collection"
+              total: "2088"
+              spec: "nyhs_bracklow"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-47469"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "New-York Historical Society"
           total: "18277"
         - 
@@ -2346,15 +2855,17 @@
               name: "Newark Public Library History"
               total: "59"
               spec: "p15109coll4"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65676"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Newark Public Library"
           total: "70"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
-            - 
-              name: "Glebe Documents Collection"
-              total: "59"
-              spec: "newburgh"
             - 
               name: "Edmund Blunt Topographic Map Collection"
               total: "64"
@@ -2364,17 +2875,27 @@
               total: "66"
               spec: "newburgh"
             - 
-              name: "James E. Horton Collection"
-              total: "2"
+              name: "Glebe Documents Collection"
+              total: "59"
               spec: "newburgh"
             - 
               name: "Hudson-Fulton Celebration, 1909"
               total: "14"
               spec: "newburgh"
             - 
+              name: "James E. Horton Collection"
+              total: "2"
+              spec: "newburgh"
+            - 
               name: "Newburgh Free Library Historic Images"
               total: "14"
               spec: "newburgh"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65458"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Newburgh Free Library"
           total: "288"
         - 
@@ -2388,6 +2909,12 @@
               name: "Daredevils of Niagara - Photos & writing from the Orrin E. Dunlap collection"
               total: "14"
               spec: "p15004coll9"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65541"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Niagara\n              Falls Public Library"
           total: "205"
         - 
@@ -2396,6 +2923,12 @@
             name: "Daniel Dumych Collection"
             total: "50"
             spec: "NYNCH"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65696"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Niagara County Historical Society"
           total: "50"
         - 
@@ -2404,10 +2937,22 @@
             name: "State Reservation at Niagara"
             total: "294"
             spec: "p15004coll9"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65452"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Niagara Falls Public Library"
           total: "294"
         - 
           council: "Western New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65743"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Niagara University"
           total: "3"
         - 
@@ -2421,10 +2966,22 @@
               name: "Sacandaga Park, NY Postcard Collection"
               total: "11"
               spec: "nor"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65734"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Northville Public Library"
           total: "12"
         - 
           council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-60135"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Nyack Library"
           total: "5611"
         - 
@@ -2433,19 +2990,27 @@
             name: "Sand Pumpings"
             total: "11"
             spec: "VXU"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65735"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Olean Public Library"
           total: "11"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65745"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Oneida Public Library"
           total: "1"
         - 
           council: {}
           coll: 
-            - 
-              name: "Urban League of Onondaga County, Inc. Collection"
-              total: "15"
-              spec: "srr_ocpl"
             - 
               name: "Quilt Patterns of Onondaga County, 1919-1923"
               total: "419"
@@ -2454,6 +3019,16 @@
               name: "Syracuse Central High School Archives"
               total: "29"
               spec: "srr_ocpl"
+            - 
+              name: "Urban League of Onondaga County, Inc. Collection"
+              total: "15"
+              spec: "srr_ocpl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64699"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Onondaga\n      County Public Library. Local History & Genealogy Department"
           total: "1047"
         - 
@@ -2462,6 +3037,12 @@
             name: "A History of the Black Community of Syracuse"
             total: "93"
             spec: "p16694coll6"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65652"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Onondaga Community College. Library"
           total: "94"
         - 
@@ -2470,163 +3051,225 @@
             name: "Onondaga Parks Association"
             total: "35"
             spec: "srr_mundy"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65711"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Onondaga County Public Library. Mundy Branch Library"
           total: "35"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65413"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Palisades Free Library"
+          total: "333"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
             name: "Lantern Slides"
             total: "1046"
             spec: "pipc"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64356"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Palisades Interstate Park Commission"
           total: "1390"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65602"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Pearl River Library"
+          total: "144"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65514"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Piermont Public Library"
+          total: "232"
         - 
           council: {}
           coll: 
             - 
-              name: "Queens Borough Public Library-Wiliam Cahill Photographs"
-              total: "172"
-              spec: "collection10116"
-            - 
-              name: "Queens Borough Public Library-Wiliam Murray Photographs"
-              total: "342"
-              spec: "collection10431"
-            - 
-              name: "Queens Borough Public Library-A. Noble Chapman Photographs"
+              name: "Queens\n                            Borough Public Library-A. Noble Chapman Photographs"
               total: "337"
               spec: "collection10776"
             - 
-              name: "Queens Borough Public Library-Arthur Murray Photographs"
-              total: "198"
-              spec: "collection11115"
-            - 
-              name: "Queens Borough Public Library-Arthur Greene Photographs"
-              total: "189"
-              spec: "collection11322"
-            - 
-              name: "Queens Borough Public Library-Eugene Nichols Photographs"
-              total: "168"
-              spec: "collection11526"
-            - 
-              name: "Queens Borough Public Library-Good Citizenship Photographs"
-              total: "25"
-              spec: "collection11707"
-            - 
-              name: "Queens Borough Public Library-Soldiers Sailors Photographs"
-              total: "9"
-              spec: "collection11733"
-            - 
-              name: "Queens Borough Public Library-South Reformed Photographs"
-              total: "31"
-              spec: "collection11743"
-            - 
-              name: "Queens Borough Public Library-Jacob Wieners Photographs"
-              total: "521"
-              spec: "collection11775"
-            - 
-              name: "Queens Borough Public Library-Anders Goldfarb Photographs"
+              name: "Queens\n                            Borough Public Library-Anders Goldfarb Photographs"
               total: "25"
               spec: "collection2887"
             - 
-              name: "Queens Borough Public Library-Councilwoman Julia Photographs"
-              total: "271"
-              spec: "collection2913"
+              name: "Queens\n                            Borough Public Library-Arthur Greene Photographs"
+              total: "189"
+              spec: "collection11322"
             - 
-              name: "Queens Borough Public Library-Hal Fullerton Photographs"
-              total: "405"
-              spec: "collection3185"
+              name: "Queens\n                            Borough Public Library-Arthur Murray Photographs"
+              total: "198"
+              spec: "collection11115"
             - 
-              name: "Queens Borough Public Library-James Henry Photographs"
-              total: "101"
-              spec: "collection3591"
-            - 
-              name: "Queens Borough Public Library-John Willis Photographs"
-              total: "49"
-              spec: "collection3693"
-            - 
-              name: "Queens Borough Public Library-Josiah Case Photographs"
-              total: "96"
-              spec: "collection3743"
-            - 
-              name: "Queens Borough Public Library-Oratorio Society Photographs"
-              total: "29"
-              spec: "collection3840"
-            - 
-              name: "Queens Borough Public Library-Queens Museum Photographs"
-              total: "1626"
-              spec: "collection3840"
-            - 
-              name: "Queens Borough Public Library-Public Service Photographs"
-              total: "499"
-              spec: "collection3877"
-            - 
-              name: "Queens Borough Public Library-Ralph Solecki Photographs"
-              total: "446"
-              spec: "collection4377"
-            - 
-              name: "Queens Borough Public Library-New York Tax Photographs"
-              total: "32"
-              spec: "collection475"
-            - 
-              name: "Queens Borough Public Library-Sister Sonia Photographs"
-              total: "300"
-              spec: "collection4824"
-            - 
-              name: "Queens Borough Public Library-William Erwin Photographs"
-              total: "413"
-              spec: "collection5125"
-            - 
-              name: "Queens Borough Public Library-J. William Photographs"
-              total: "46"
-              spec: "collection5539"
-            - 
-              name: "Queens Borough Public Library-Rogers Waters Photographs"
-              total: "6"
-              spec: "collection5603"
-            - 
-              name: {}
-              total: "43"
-              spec: "collection5839"
-            - 
-              name: "Queens Borough Public Library-Borough President Photographs"
-              total: "672"
-              spec: "collection5922"
-            - 
-              name: "Queens Borough Public Library-Aurora Gareiss Papers"
+              name: "Queens\n                            Borough Public Library-Aurora Gareiss Papers"
               total: "446"
               spec: "collection5965"
             - 
-              name: "Queens Borough Public Library-Irene Devan Photographs"
-              total: "10"
-              spec: "collection6412"
+              name: "Queens\n                            Borough Public Library-Borough President Photographs"
+              total: "773"
+              spec: "collection5922"
             - 
-              name: "Queens Borough Public Library-Eugene Armbruster Photographs"
-              total: "1548"
-              spec: "collection7837"
+              name: "Queens\n                            Borough Public Library-Councilwoman Julia Photographs"
+              total: "271"
+              spec: "collection2913"
             - 
-              name: "Queens Borough Public Library-Joseph Burt Photographs"
-              total: "25"
-              spec: "collection9386"
-            - 
-              name: "Queens Borough Public Library-Erwin Ma Photographs"
+              name: "Queens\n                            Borough Public Library-Erwin Ma Photograph"
               total: "30"
               spec: "collection9412"
             - 
-              name: "Queens Borough Public Library-William Rugen Photographs"
+              name: "Queens\n                            Borough Public Library-Eugene Armbruster Photographs"
+              total: "1548"
+              spec: "collection7837"
+            - 
+              name: "Queens\n                            Borough Public Library-Eugene Nichols Photographs"
+              total: "168"
+              spec: "collection11526"
+            - 
+              name: "Queens\n                            Borough Public Library-Good Citizenship Photographs"
+              total: "25"
+              spec: "collection11707"
+            - 
+              name: "Queens\n                            Borough Public Library-Hal Fullerton Photographs"
+              total: "405"
+              spec: "collection3185"
+            - 
+              name: "Queens\n                            Borough Public Library-Irene Devan Photographs"
+              total: "10"
+              spec: "collection6412"
+            - 
+              name: "Queens\n                            Borough Public Library-J. William Photographs"
+              total: "46"
+              spec: "collection5539"
+            - 
+              name: "Queens\n                            Borough Public Library-Jacob Wieners Photographs"
+              total: "521"
+              spec: "collection11775"
+            - 
+              name: "Queens\n                            Borough Public Library-James Henry Photographs"
+              total: "101"
+              spec: "collection3591"
+            - 
+              name: "Queens\n                            Borough Public Library-John Willis Photographs"
+              total: "49"
+              spec: "collection3693"
+            - 
+              name: "Queens\n                            Borough Public Library-Joseph Burt Photographs"
+              total: "25"
+              spec: "collection9386"
+            - 
+              name: "Queens\n                            Borough Public Library-Josiah Case Photographs"
+              total: "96"
+              spec: "collection3743"
+            - 
+              name: "Queens\n                            Borough Public Library-New York Tax Photographs"
+              total: "32"
+              spec: "collection475"
+            - 
+              name: "Queens\n                            Borough Public Library-Oratorio Society Photographs"
+              total: "29"
+              spec: "collection3840"
+            - 
+              name: "Queens\n                            Borough Public Library-Public Service Photographs"
+              total: "499"
+              spec: "collection3877"
+            - 
+              name: "Queens\n                            Borough Public Library-Queens Museum Photographs"
+              total: "1628"
+              spec: "collection5839"
+            - 
+              name: "Queens\n                            Borough Public Library-Ralph Solecki Photographs"
+              total: "446"
+              spec: "collection4377"
+            - 
+              name: "Queens\n                            Borough Public Library-Rogers Waters Photographs"
+              total: "6"
+              spec: "collection5603"
+            - 
+              name: "Queens\n                            Borough Public Library-Sister Sonia Photographs"
+              total: "300"
+              spec: "collection4824"
+            - 
+              name: "Queens\n                            Borough Public Library-Soldiers Sailors Photographs"
+              total: "9"
+              spec: "collection11733"
+            - 
+              name: "Queens\n                            Borough Public Library-South Reformed Photographs"
+              total: "31"
+              spec: "collection11743"
+            - 
+              name: "Queens\n                            Borough Public Library-Wiliam Cahill Photographs"
+              total: "172"
+              spec: "collection10116"
+            - 
+              name: "Queens\n                            Borough Public Library-Wiliam Murray Photographs"
+              total: "342"
+              spec: "collection10431"
+            - 
+              name: "Queens\n                            Borough Public Library-William Erwin Photographs"
+              total: "413"
+              spec: "collection5125"
+            - 
+              name: "Queens\n                            Borough Public Library-William Rugen Photographs"
               total: "352"
               spec: "collection9443"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-56180"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Queens Borough Public Library"
-          total: "9465"
+          total: "9566"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65726"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Remsen Steuben Historical Society"
           total: "20"
         - 
           council: "Rochester Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65501"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Rochester Museum & Science Center"
           total: "245"
         - 
           council: "Rochester Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65661"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Rochester Public Library"
           total: "85"
         - 
@@ -2635,6 +3278,12 @@
             name: "Fletcher Steele Collection"
             total: "739"
             spec: "p16694coll25"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64796"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "SUNY College of Environmental Science and Forestry"
           total: "950"
         - 
@@ -2643,6 +3292,12 @@
             name: "Holland Land Company Maps"
             total: "1363"
             spec: "XFM001"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64383"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "SUNY Fredonia"
           total: "1363"
         - 
@@ -2653,16 +3308,8 @@
               total: "87"
               spec: "p277601coll3"
             - 
-              name: "Martha Blow Wadsworth Photograph Collection"
-              total: "95"
-              spec: "p277601coll3"
-            - 
               name: "Carl Schmidt Collection of Two-Dimensional Drawings"
               total: "109"
-              spec: "p277601coll3"
-            - 
-              name: "Jackson Health Resort Collection"
-              total: "27"
               spec: "p277601coll3"
             - 
               name: "Flood of 1972, Genesee River in Letchworth State Park"
@@ -2672,6 +3319,20 @@
               name: "Genesee Valley Hunt"
               total: "13"
               spec: "p277601coll3"
+            - 
+              name: "Jackson Health Resort Collection"
+              total: "27"
+              spec: "p277601coll3"
+            - 
+              name: "Martha Blow Wadsworth Photograph Collection"
+              total: "95"
+              spec: "p277601coll3"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65402"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "SUNY Geneseo. Milne Library"
           total: "344"
         - 
@@ -2682,22 +3343,32 @@
               total: "29"
               spec: "sunynp"
             - 
-              name: "Pauline Nuzzolezze Staiano '52 Photo Album"
-              total: "14"
+              name: "Education in a Valley Fair"
+              total: "2"
               spec: "sunynp"
             - 
               name: "Historic Photograph Collection"
               total: "6"
               spec: "sunynp"
             - 
-              name: "Education in a Valley Fair"
-              total: "2"
+              name: "Pauline Nuzzolezze Staiano '52 Photo Album"
+              total: "14"
               spec: "sunynp"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65646"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "SUNY New Paltz. Sojourner Truth Library"
           total: "100"
         - 
           council: "Northern New York Library Network"
           coll: 
+            - 
+              name: "Mill Whistle"
+              total: "7"
+              spec: "supl"
             - 
               name: "Plattsburgh Barracks"
               total: "158"
@@ -2707,41 +3378,23 @@
               total: "163"
               spec: "supl"
             - 
-              name: "Mill Whistle"
-              total: "7"
-              spec: "supl"
-            - 
               name: "The Cardinal: SUNY Plattsburgh College Yearbooks"
               total: "87"
               spec: "supl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65328"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "SUNY Plattsburgh. Feinberg Library. Special Collections"
           total: "418"
         - 
           council: "Central New York Library Resources Council"
           coll: 
             - 
-              name: "Hospital of the Good Shepherd"
-              total: "60"
-              spec: "sunyup01"
-            - 
-              name: "Syracuse Free Dispensary"
-              total: "43"
-              spec: "sunyup01"
-            - 
-              name: "McBride Street Campus"
-              total: "45"
-              spec: "sunyup01"
-            - 
-              name: "The Roosevelts Visit Syracuse"
-              total: "26"
-              spec: "sunyup01"
-            - 
-              name: "University Hospital"
-              total: "131"
-              spec: "sunyup01"
-            - 
-              name: "Nursing at Upstate"
-              total: "151"
+              name: "College of Medicine Class Photographs"
+              total: "81"
               spec: "sunyup01"
             - 
               name: "Fairfield Medical College"
@@ -2752,17 +3405,49 @@
               total: "58"
               spec: "sunyup01"
             - 
-              name: "College of Medicine Class Photographs"
-              total: "81"
+              name: "Hospital of the Good Shepherd"
+              total: "60"
               spec: "sunyup01"
+            - 
+              name: "McBride Street Campus"
+              total: "45"
+              spec: "sunyup01"
+            - 
+              name: "Nursing at Upstate"
+              total: "151"
+              spec: "sunyup01"
+            - 
+              name: "Syracuse Free Dispensary"
+              total: "43"
+              spec: "sunyup01"
+            - 
+              name: "The Roosevelts Visit Syracuse"
+              total: "26"
+              spec: "sunyup01"
+            - 
+              name: "University Hospital"
+              total: "131"
+              spec: "sunyup01"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64740"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "SUNY Upstate Medical University. Health Sciences Library"
-          total: "1007"
+          total: "1006"
         - 
           council: "Central New York Library Resources Council"
           coll: 
             name: "Salina Local History"
             total: "9"
             spec: "salfree"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65737"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Salina Free Library"
           total: "9"
         - 
@@ -2776,6 +3461,12 @@
               name: "Library History Collection"
               total: "21"
               spec: "sspl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65708"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Saratoga Springs Public Library"
           total: "38"
         - 
@@ -2784,27 +3475,45 @@
             name: "Historic Postcards from Sardinia, NY"
             total: "60"
             spec: "BUF005"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65686"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Sardinia Historical Society"
           total: "60"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
             - 
-              name: "Harold Haliday Costain Slide Collection"
-              total: "500"
-              spec: "scpl"
-            - 
               name: "Elizabeth Arey Photograph Collection"
               total: "162"
+              spec: "scpl"
+            - 
+              name: "Harold Haliday Costain Slide Collection"
+              total: "501"
               spec: "scpl"
             - 
               name: "Starkweather Room Photograph Collection"
               total: "204"
               spec: "scpl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64878"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Scarsdale Public Library"
-          total: "867"
+          total: "868"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65599"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Siena College"
           total: "147"
         - 
@@ -2813,6 +3522,12 @@
             name: "Skaneateles Lake Collection"
             total: "26"
             spec: "srr_skanhis"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65720"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Skaneateles Historical Society"
           total: "26"
         - 
@@ -2821,6 +3536,12 @@
             name: "Skaneateles Library Association Collection"
             total: "24"
             spec: "srr_skanlib"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65722"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Skaneateles Library Association"
           total: "24"
         - 
@@ -2829,28 +3550,72 @@
             name: "Camp Syracuse"
             total: "28"
             spec: "srr_sghs"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65718"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Solvay-Geddes Historical Society"
           total: "28"
         - 
           council: "Northern New York Library Network"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64061"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "St. Lawrence-Lewis School Library System"
-          total: "1670"
+          total: "1685"
         - 
           council: "Capital District Library Council"
           coll: 
             name: "Steinmetz Digital Collection of Schenectady"
             total: "246"
             spec: "schmuse"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65480"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Steinmetz Digital Collection of Schenectady"
           total: "266"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65657"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Suffern Free Library"
+          total: "89"
         - 
           council: "Central New York Library Resources Council"
           coll: 
             name: "Polish Community of Syracuse, NY"
             total: "55"
             spec: "srr_sph"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65691"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Syracuse Polish Home"
           total: "55"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65642"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Tappan Library"
+          total: "104"
         - 
           council: "Western New York Library Resources Council"
           coll: 
@@ -2859,10 +3624,6 @@
               total: "14"
               spec: "VTP003"
             - 
-              name: "War of 1812"
-              total: "25"
-              spec: "VTP005"
-            - 
               name: "Buffalo Postcards"
               total: "28"
               spec: "VTP005"
@@ -2870,39 +3631,55 @@
               name: "Crystal Beach"
               total: "20"
               spec: "VTP005"
+            - 
+              name: "War of 1812"
+              total: "25"
+              spec: "VTP005"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65652"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The Buffalo History Museum"
           total: "94"
         - 
           council: "Capital District Library Council"
           coll: 
             - 
-              name: "The College of Saint Rose Archives - Photograph Collection"
-              total: "235"
-              spec: "strose"
-            - 
               name: "The College of Saint Rose Archives - Digital Collections"
               total: "6"
-              spec: "strose"
-            - 
-              name: "The College of Saint Rose Archives - Video Collection"
-              total: "2"
-              spec: "strose"
-            - 
-              name: "The College of Saint Rose Archives - Oral History Collection"
-              total: "31"
               spec: "strose"
             - 
               name: "The College of Saint Rose Archives - Map Collection"
               total: "35"
               spec: "strose"
             - 
+              name: "The College of Saint Rose Archives - Oral History Collection"
+              total: "31"
+              spec: "strose"
+            - 
+              name: "The College of Saint Rose Archives - Photograph Collection"
+              total: "235"
+              spec: "strose"
+            - 
               name: "The College of Saint Rose Archives - Student Literary and Creative Publications"
               total: "40"
+              spec: "strose"
+            - 
+              name: "The College of Saint Rose Archives - Video Collection"
+              total: "2"
               spec: "strose"
             - 
               name: "The College of Saint Rose Archives - Yearbook Collection"
               total: "2"
               spec: "strose"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65392"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The College of Saint Rose"
           total: "354"
         - 
@@ -2914,28 +3691,46 @@
               spec: "cia_menu"
             - 
               name: "Historical Menus"
-              total: "1893"
+              total: "2008"
               spec: "cia_menu"
             - 
               name: "International Menus"
-              total: "480"
+              total: "561"
               spec: "cia_menu"
             - 
               name: "S. S. Cleveland Around the World Cruise"
               total: "33"
               spec: "cia_menu"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-63414"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The Culinary Institute of America"
-          total: "2217"
+          total: "2332"
         - 
           council: "Central New York Library Resources Council"
           coll: 
             name: "Working on the Erie Canal"
             total: "26"
             spec: "srr_ecm"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65720"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The Erie Canal Museum"
           total: "26"
         - 
           council: "South Central Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65623"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The History Center in Tompkins County"
           total: "123"
         - 
@@ -2944,43 +3739,67 @@
             name: "WCS and NYBG Libraries-Bronx Park Postcards"
             total: "125"
             spec: "bronxpark_collection"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65621"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The New York Botanical Garden"
           total: "125"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65372"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "The Sage Colleges"
           total: "374"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65599"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
+          name: "Tomkins Cove Public Library"
+          total: "147"
         - 
           council: "Capital District Library Council"
           coll: 
             name: "Town of Ballston Digital Collection"
             total: "27"
             spec: "tobcl"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65715"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Town of Ballston Community Library"
           total: "31"
         - 
           council: "Western New York Library Resources Council"
           coll: 
             - 
-              name: "Jewish Buffalo Image Collection"
-              total: "658"
-              spec: "BUF009"
-            - 
               name: "Archacki Cartoons"
               total: "302"
               spec: "p16694coll1"
             - 
-              name: "Twentieth Century Club of Buffalo"
-              total: "304"
+              name: "Darwin D. Martin Photograph Collection"
+              total: "598"
               spec: "p16694coll1"
             - 
               name: "Dr. Austin Flint Collection"
               total: "26"
               spec: "p16694coll1"
             - 
-              name: "Darwin D. Martin Photograph Collection"
-              total: "598"
-              spec: "p16694coll1"
+              name: "Jewish Buffalo Image Collection"
+              total: "658"
+              spec: "BUF009"
             - 
               name: "Love Canal Images"
               total: "620"
@@ -2989,27 +3808,49 @@
               name: "Thomas B. Lockwood"
               total: "30"
               spec: "p16694coll1"
+            - 
+              name: "Twentieth Century Club of Buffalo"
+              total: "315"
+              spec: "p16694coll1"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-62799"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "University at Buffalo"
-          total: "2936"
+          total: "2947"
         - 
           council: {}
           coll: 
             name: "Hayes-Coleman Family Papers"
             total: "2"
             spec: "islandora_2599"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65744"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "University of Rochester, River Campus\n                    Libraries"
           total: "2"
         - 
           council: {}
           coll: 
             - 
-              name: "William Thomas Moncrieff Papers"
-              total: "47"
-              spec: "islandora_2377_1"
-            - 
               name: "University of Rochester-Kenneth B. Keating Collection"
               total: "103"
               spec: "islandora_416"
+            - 
+              name: "William Thomas Moncrieff Papers"
+              total: "47"
+              spec: "islandora_2377_1"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65596"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "University of Rochester, River Campus Libraries"
           total: "150"
         - 
@@ -3018,11 +3859,49 @@
             name: "Dentistry at the University of Rochester"
             total: "87"
             spec: "p277601coll6"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65659"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "University of Rochester. Medical Center. Eastman Institute for Oral Health"
           total: "87"
         - 
           council: "Rochester Regional Library Council"
           coll: 
+            - 
+              name: "1916"
+              total: "1"
+              spec: "p277601coll5"
+            - 
+              name: "1917"
+              total: "1"
+              spec: "p277601coll5"
+            - 
+              name: "1919"
+              total: "1"
+              spec: "p277601coll5"
+            - 
+              name: "1923"
+              total: "1"
+              spec: "p277601coll5"
+            - 
+              name: "Grove Sheldon Gilbert Portraits"
+              total: "45"
+              spec: "p277601coll5"
+            - 
+              name: "MAG Events"
+              total: "31"
+              spec: "p277601coll5"
+            - 
+              name: "MAG Exhibition Views"
+              total: "76"
+              spec: "p277601coll5"
+            - 
+              name: "MAG Exhibition views"
+              total: "38"
+              spec: "p277601coll5"
             - 
               name: "MAG Images"
               total: "103"
@@ -3032,155 +3911,129 @@
               total: "389"
               spec: "p277601coll5"
             - 
-              name: "WPA Fine Arts Projects in Rochester"
-              total: "51"
-              spec: "p277601coll5"
-            - 
-              name: "1917"
-              total: "1"
-              spec: "p277601coll5"
-            - 
-              name: "1923"
-              total: "1"
-              spec: "p277601coll5"
-            - 
-              name: "1919"
-              total: "1"
-              spec: "p277601coll5"
-            - 
               name: "MAG images"
               total: "4"
-              spec: "p277601coll5"
-            - 
-              name: "MAG Exhibition views"
-              total: "38"
-              spec: "p277601coll5"
-            - 
-              name: "MAG Exhibition Views"
-              total: "76"
-              spec: "p277601coll5"
-            - 
-              name: "Watson Family Photographs"
-              total: "73"
-              spec: "p277601coll5"
-            - 
-              name: "Grove Sheldon Gilbert Portraits"
-              total: "45"
-              spec: "p277601coll5"
-            - 
-              name: "Print Club of Rochester"
-              total: "92"
-              spec: "p277601coll5"
-            - 
-              name: "MAG Events"
-              total: "31"
-              spec: "p277601coll5"
-            - 
-              name: "Rochester Architecture"
-              total: "89"
-              spec: "p277601coll5"
-            - 
-              name: "1916"
-              total: "1"
-              spec: "p277601coll5"
-            - 
-              name: "Rochester Art Club"
-              total: "7"
-              spec: "p277601coll5"
-            - 
-              name: "Watson Film Scrapbook"
-              total: "1"
               spec: "p277601coll5"
             - 
               name: "Memorial Art Gallery Artifacts and Memorabilia"
               total: "58"
               spec: "p277601coll5"
             - 
+              name: "Print Club of Rochester"
+              total: "92"
+              spec: "p277601coll5"
+            - 
+              name: "Rochester Architecture"
+              total: "89"
+              spec: "p277601coll5"
+            - 
+              name: "Rochester Art Club"
+              total: "7"
+              spec: "p277601coll5"
+            - 
               name: "Rochester Artists"
               total: "3"
               spec: "p277601coll5"
+            - 
+              name: "WPA Fine Arts Projects in Rochester"
+              total: "51"
+              spec: "p277601coll5"
+            - 
+              name: "Watson Family Photographs"
+              total: "73"
+              spec: "p277601coll5"
+            - 
+              name: "Watson Film Scrapbook"
+              total: "1"
+              spec: "p277601coll5"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64406"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "University of Rochester. Memorial Art Gallery"
-          total: "1338"
+          total: "1340"
         - 
           council: "Central New York Library Resources Council"
           coll: 
             name: "Utica Church and Synagogue Collection"
             total: "32"
             spec: "srr_utica"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65714"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Utica Public Library"
           total: "32"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
             - 
-              name: "Vassar Brothers Hospital School of Nursing"
-              total: "37"
-              spec: "vbmc"
-            - 
-              name: "VBMC Departments"
-              total: "29"
-              spec: "vbmc"
-            - 
-              name: "VBMC Physicians & Trustees"
-              total: "13"
-              spec: "vbmc"
-            - 
               name: "Disaster Drill Photographs"
               total: "7"
-              spec: "vbmc"
-            - 
-              name: "VBMC Buildings & Grounds"
-              total: "27"
-              spec: "vbmc"
-            - 
-              name: "VBMC Interior Photographs"
-              total: "11"
-              spec: "vbmc"
-            - 
-              name: "VBMC Seasonal Photographs"
-              total: "13"
-              spec: "vbmc"
-            - 
-              name: "VBMC Patient Care"
-              total: "7"
-              spec: "vbmc"
-            - 
-              name: "VBMC Construction"
-              total: "9"
               spec: "vbmc"
             - 
               name: "Jane Secor Collection"
               total: "28"
               spec: "vbmc"
             - 
-              name: "VBMC Trustees"
-              total: "14"
+              name: "VBMC Buildings & Grounds"
+              total: "27"
+              spec: "vbmc"
+            - 
+              name: "VBMC Construction"
+              total: "9"
+              spec: "vbmc"
+            - 
+              name: "VBMC Departments"
+              total: "29"
+              spec: "vbmc"
+            - 
+              name: "VBMC Interior Photographs"
+              total: "11"
+              spec: "vbmc"
+            - 
+              name: "VBMC Patient Care"
+              total: "7"
               spec: "vbmc"
             - 
               name: "VBMC Physicians"
               total: "6"
               spec: "vbmc"
+            - 
+              name: "VBMC Physicians & Trustees"
+              total: "13"
+              spec: "vbmc"
+            - 
+              name: "VBMC Seasonal Photographs"
+              total: "13"
+              spec: "vbmc"
+            - 
+              name: "VBMC Trustees"
+              total: "14"
+              spec: "vbmc"
+            - 
+              name: "Vassar Brothers Hospital School of Nursing"
+              total: "37"
+              spec: "vbmc"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65158"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Vassar Brothers Medical Center"
           total: "588"
         - 
           council: {}
           coll: 
             - 
-              name: "Vassar College Libraries-Susan B. Anthony Papers"
-              total: "99"
-              spec: "vassar_anthony_susan_b"
-            - 
               name: "Vassar College Libraries-Bidloo's Anatomia (Vassar's Millionth Volume)"
               total: "1"
               spec: "vassar_bidloo"
-            - 
-              name: "Vassar College Libraries-John Burroughs Journals"
-              total: "53"
-              spec: "vassar_burroughs"
-            - 
-              name: "Vassar College Libraries-Vassar College Student Diaries"
-              total: "56"
-              spec: "vassar_diaries"
             - 
               name: "Vassar College Libraries-Images of Early Vassar"
               total: "247"
@@ -3189,18 +4042,54 @@
               name: "Vassar College Libraries-Jasper Parrish Papers"
               total: "145"
               spec: "vassar_parrish"
+            - 
+              name: "Vassar College Libraries-John Burroughs Journals"
+              total: "53"
+              spec: "vassar_burroughs"
+            - 
+              name: "Vassar College Libraries-Susan B. Anthony Papers"
+              total: "99"
+              spec: "vassar_anthony_susan_b"
+            - 
+              name: "Vassar College Libraries-Vassar College Student Diaries"
+              total: "56"
+              spec: "vassar_diaries"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65145"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Vassar College Libraries, Poughkeepsie, N.Y"
           total: "601"
         - 
           council: "Northern New York Library Network"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65651"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Watertown Flower Memorial Library"
           total: "95"
         - 
           council: "Central New York Library Resources Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65741"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Waterville Public Library"
           total: "5"
         - 
           council: "South Central Regional Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65734"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Wells College"
           total: "12"
         - 
@@ -3209,6 +4098,12 @@
             name: "White Plains Collection"
             total: "246"
             spec: "wppl_wpc"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65500"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "White Plains Public Library"
           total: "246"
         - 
@@ -3217,6 +4112,12 @@
             name: "Whitney Museum Library-Whitney Studio Club and Galleries, 1907-1930"
             total: "996"
             spec: "whitneystudioclub_collection"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-64748"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Whitney Museum of American Art. Library"
           total: "998"
         - 
@@ -3225,15 +4126,17 @@
             name: "Suckley Family World War I Collection"
             total: "107"
             spec: "wilderstein"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65638"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Wilderstein Historic Site"
           total: "108"
         - 
           council: "Metropolitan New York Library Council"
           coll: 
-            - 
-              name: "WCS and NYBG Libraries-Bronx Park Postcards"
-              total: "329"
-              spec: "bronxpark_collection"
             - 
               name: "WCS Library-New York Aquarium Postcards"
               total: "94"
@@ -3242,17 +4145,33 @@
               name: "WCS Publications and Printed Ephemera Collection"
               total: "112"
               spec: "wcs_ephemera"
+            - 
+              name: "WCS and NYBG Libraries-Bronx Park Postcards"
+              total: "329"
+              spec: "bronxpark_collection"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-65211"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "Wildlife Conservation Society"
           total: "535"
         - 
           council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "34895"
+            non-hosted-total: "-59481"
+            dcmny-total: "18832"
+            hrvh-total: "12019"
+            hosted-total: "65746"
           name: "miSci"
-          total: "6266"
+          total: "6265"
     hosting-totals: 
-      nyh-total: "34729"
-      non-hosted-total: "139456"
-      dcmny-total: "18829"
-      hrvh-total: "12018"
-      hosted-total: "65576"
-    total: "205032"
+      nyh-total: "34895"
+      non-hosted-total: "153821"
+      dcmny-total: "18832"
+      hrvh-total: "12019"
+      hosted-total: "65746"
+    total: "219567"
 
