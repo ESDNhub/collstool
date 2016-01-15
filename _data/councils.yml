@@ -5,13 +5,16 @@
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "13345"
-            non-hosted-total: "87"
-            council-hosted-total: "13345"
+            nyh-council-total: "14460"
+            non-hosted-total: "453"
+            council-hosted-total: "14460"
             dcmny-council-total: "0"
           name: "Capital District Library Council"
-          total: "13432"
+          total: "14913"
           provider: 
+            - 
+              name: "Crandall Public Library"
+              total: "181"
             - 
               coll: 
                 - 
@@ -145,7 +148,7 @@
                   name: "27th Division in World War Two"
                   spec: "nysmm"
                 - 
-                  count: "1492"
+                  count: "2608"
                   name: "Civil War Carte de Visite Collection"
                   spec: "nysmm"
                 - 
@@ -153,7 +156,7 @@
                   name: "Diaries"
                   spec: "nysmm"
               name: "New York State Military Museum"
-              total: "4095"
+              total: "5211"
             - 
               coll: 
                 - 
@@ -168,6 +171,13 @@
               total: "12"
             - 
               coll: 
+                count: "137"
+                name: "Rudolf Steiner Library of the Anthroposophical Society"
+                spec: "nyrud"
+              name: "Rudolf Steiner Library of the Anthroposophical Society in America"
+              total: "137"
+            - 
+              coll: 
                 - 
                   count: "16"
                   name: "Floral Fete Collection"
@@ -178,6 +188,9 @@
                   spec: "sspl"
               name: "Saratoga Springs Public Library"
               total: "38"
+            - 
+              name: "Schenectady County Historical Society"
+              total: "48"
             - 
               name: "Siena College"
               total: "147"
@@ -232,7 +245,7 @@
               total: "31"
             - 
               name: "miSci"
-              total: "6265"
+              total: "6264"
         - 
           hosting-totals: 
             hrvh-council-total: "0"
@@ -430,10 +443,10 @@
             hrvh-council-total: "0"
             nyh-council-total: "0"
             non-hosted-total: "1904"
-            council-hosted-total: "18832"
-            dcmny-council-total: "18832"
+            council-hosted-total: "18828"
+            dcmny-council-total: "18828"
           name: "Metropolitan New York Library Council"
-          total: "20736"
+          total: "20732"
           provider: 
             - 
               coll: 
@@ -444,11 +457,11 @@
               total: "143"
             - 
               coll: 
-                count: "9"
+                count: "35"
                 name: "American Jewish Joint Distribution Committee Archives"
                 spec: "jdc"
               name: "American Jewish Joint Distribution Committee Archives"
-              total: "9"
+              total: "35"
             - 
               coll: 
                 count: "70"
@@ -603,11 +616,11 @@
                   name: "New York Philharmonic Music Scores Collection"
                   spec: "MusicScores"
                 - 
-                  count: "12942"
+                  count: "12859"
                   name: "New York Philharmonic Program Collection"
                   spec: "Programs"
               name: "New York Philharmonic Leon Levy Digital Archives"
-              total: "34874"
+              total: "34791"
             - 
               coll: 
                 - 
@@ -622,11 +635,11 @@
               total: "328"
             - 
               coll: 
-                count: "227"
+                count: "223"
                 name: "Cartes de Visite Collection"
                 spec: "nyam_cartesdevisites"
               name: "New York Academy of Medicine"
-              total: "227"
+              total: "223"
             - 
               coll: 
                 - 
@@ -680,11 +693,11 @@
           hosting-totals: 
             hrvh-council-total: "0"
             nyh-council-total: "95"
-            non-hosted-total: "3443"
+            non-hosted-total: "3766"
             council-hosted-total: "95"
             dcmny-council-total: "0"
           name: "Northern New York Library Network"
-          total: "3538"
+          total: "3861"
           provider: 
             - 
               coll: 
@@ -727,7 +740,7 @@
               total: "418"
             - 
               name: "St. Lawrence-Lewis School Library System"
-              total: "1685"
+              total: "2008"
             - 
               name: "Watertown Flower Memorial Library"
               total: "95"
@@ -735,11 +748,11 @@
           hosting-totals: 
             hrvh-council-total: "0"
             nyh-council-total: "4268"
-            non-hosted-total: "2239"
+            non-hosted-total: "2245"
             council-hosted-total: "4268"
             dcmny-council-total: "0"
           name: "Rochester Regional Library Council"
-          total: "6507"
+          total: "6513"
           provider: 
             - 
               coll: 
@@ -870,11 +883,11 @@
                   name: "Jackson Health Resort Collection"
                   spec: "p277601coll3"
                 - 
-                  count: "95"
+                  count: "98"
                   name: "Martha Blow Wadsworth Photograph Collection"
                   spec: "p277601coll3"
               name: "SUNY Geneseo. Milne Library"
-              total: "344"
+              total: "347"
             - 
               coll: 
                 count: "87"
@@ -961,7 +974,7 @@
                   name: "Watson Film Scrapbook"
                   spec: "p277601coll5"
               name: "University of Rochester. Memorial Art Gallery"
-              total: "1340"
+              total: "1343"
         - 
           hosting-totals: 
             hrvh-council-total: "0"
@@ -1008,13 +1021,13 @@
               total: "12"
         - 
           hosting-totals: 
-            hrvh-council-total: "12019"
+            hrvh-council-total: "12423"
             nyh-council-total: "0"
-            non-hosted-total: "2835"
-            council-hosted-total: "12019"
+            non-hosted-total: "3597"
+            council-hosted-total: "12423"
             dcmny-council-total: "0"
           name: "Southeastern New York Library Resources Council"
-          total: "14854"
+          total: "16020"
           provider: 
             - 
               coll: 
@@ -1023,11 +1036,11 @@
                   name: "Culinary Institute of America Menus"
                   spec: "cia_menu"
                 - 
-                  count: "2008"
+                  count: "2071"
                   name: "Historical Menus"
                   spec: "cia_menu"
                 - 
-                  count: "561"
+                  count: "564"
                   name: "International Menus"
                   spec: "cia_menu"
                 - 
@@ -1035,7 +1048,7 @@
                   name: "S. S. Cleveland Around the World Cruise"
                   spec: "cia_menu"
               name: "The Culinary Institute of America"
-              total: "2332"
+              total: "2395"
             - 
               coll: 
                 - 
@@ -1129,6 +1142,27 @@
               name: "Bard College. Bard College Archives"
               total: "501"
             - 
+              coll: 
+                - 
+                  count: "134"
+                  name: "Business"
+                  spec: "chs"
+                - 
+                  count: "22"
+                  name: "Farms"
+                  spec: "chs"
+                - 
+                  count: "166"
+                  name: "People"
+                  spec: "chs"
+                - 
+                  count: "52"
+                  name: "Places"
+                  spec: "chs"
+                - 
+                  count: "36"
+                  name: "RR"
+                  spec: "chs"
               name: "Chester Historical Society"
               total: "790"
             - 
@@ -1138,7 +1172,7 @@
                   name: "Cornwall Public Library"
                   spec: "cornpl"
                 - 
-                  count: "4"
+                  count: "9"
                   name: "Cornwall Public Library Oral History Collection"
                   spec: "cornpl"
                 - 
@@ -1146,7 +1180,7 @@
                   name: "Cornwall Public Library Postcard Collection"
                   spec: "cornpl"
               name: "Cornwall Public Library"
-              total: "98"
+              total: "103"
             - 
               coll: 
                 - 
@@ -1176,6 +1210,10 @@
               name: "Franklin D. Roosevelt Presidential Library and Museum"
               total: "83"
             - 
+              coll: 
+                count: "219"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Haverstraw King's Daughters Public Library"
               total: "219"
             - 
@@ -1223,21 +1261,50 @@
               name: "Historic Huguenot Street"
               total: "884"
             - 
+              coll: 
+                - 
+                  count: "3"
+                  name: "1909 Hudson-Fulton Celebration"
+                  spec: "hrvi"
+                - 
+                  count: "41"
+                  name: "Atlas of the Hudson River Valley from New York City to Troy"
+                  spec: "hrvi"
+                - 
+                  count: "18"
+                  name: "John Burroughs Postcard Collection"
+                  spec: "hrvi"
+                - 
+                  count: "458"
+                  name: "Ulster County Postcards"
+                  spec: "hrvi"
+                - 
+                  count: "7"
+                  name: "Willie Family Civil War Collection"
+                  spec: "hrvi"
               name: "Hudson River Valley Institute"
               total: "786"
             - 
+              coll: 
+                count: "75"
+                name: "Marlboro Free Library"
+                spec: "marlboro"
               name: "Marlboro Free Library"
               total: "75"
             - 
               coll: 
-                count: "2"
+                count: "18"
                 name: "Library Association of Rockland County"
                 spec: "larc"
               name: "Nanuet Public Library"
-              total: "2"
+              total: "18"
             - 
+              coll: 
+                count: "384"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "New City Library"
-              total: "383"
+              total: "384"
             - 
               coll: 
                 - 
@@ -1249,7 +1316,7 @@
                   name: "Frank Estabrook Collection"
                   spec: "newburgh"
                 - 
-                  count: "59"
+                  count: "97"
                   name: "Glebe Documents Collection"
                   spec: "newburgh"
                 - 
@@ -1265,13 +1332,21 @@
                   name: "Newburgh Free Library Historic Images"
                   spec: "newburgh"
               name: "Newburgh Free Library"
-              total: "288"
+              total: "331"
             - 
+              coll: 
+                count: "5673"
+                name: "Nyack Library"
+                spec: "nyacklib"
               name: "Nyack Library"
-              total: "5611"
+              total: "5673"
             - 
+              coll: 
+                count: "618"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Palisades Free Library"
-              total: "333"
+              total: "618"
             - 
               coll: 
                 count: "1046"
@@ -1280,9 +1355,17 @@
               name: "Palisades Interstate Park Commission"
               total: "1390"
             - 
+              coll: 
+                count: "144"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Pearl River Library"
               total: "144"
             - 
+              coll: 
+                count: "232"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Piermont Public Library"
               total: "232"
             - 
@@ -1316,20 +1399,39 @@
                   name: "Harold Haliday Costain Slide Collection"
                   spec: "scpl"
                 - 
-                  count: "204"
+                  count: "314"
                   name: "Starkweather Room Photograph Collection"
                   spec: "scpl"
               name: "Scarsdale Public Library"
-              total: "868"
+              total: "978"
             - 
+              coll: 
+                count: "318"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Suffern Free Library"
-              total: "89"
+              total: "318"
             - 
+              coll: 
+                count: "104"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Tappan Library"
               total: "104"
             - 
+              coll: 
+                count: "148"
+                name: "Library Association of Rockland County"
+                spec: "larc"
               name: "Tomkins Cove Public Library"
-              total: "147"
+              total: "148"
+            - 
+              coll: 
+                count: "348"
+                name: "Library Association of Rockland County"
+                spec: "larc"
+              name: "Valley Cottage Library"
+              total: "348"
             - 
               coll: 
                 - 
@@ -1381,7 +1483,14 @@
                   name: "Vassar Brothers Hospital School of Nursing"
                   spec: "vbmc"
               name: "Vassar Brothers Medical Center"
-              total: "588"
+              total: "772"
+            - 
+              coll: 
+                count: "150"
+                name: "Library Association of Rockland County"
+                spec: "larc"
+              name: "West Nyack Free Library"
+              total: "150"
             - 
               coll: 
                 count: "107"
@@ -1389,15 +1498,22 @@
                 spec: "wilderstein"
               name: "Wilderstein Historic Site"
               total: "108"
+            - 
+              coll: 
+                count: "230"
+                name: "Woodstock Public Library District"
+                spec: "wp"
+              name: "Woodstock Public Library District"
+              total: "230"
         - 
           hosting-totals: 
             hrvh-council-total: "0"
-            nyh-council-total: "11274"
+            nyh-council-total: "11275"
             non-hosted-total: "1620"
-            council-hosted-total: "11274"
+            council-hosted-total: "11275"
             dcmny-council-total: "0"
           name: "Western New York Library Resources Council"
-          total: "12894"
+          total: "12895"
           provider: 
             - 
               coll: 
@@ -1594,22 +1710,22 @@
                   name: "Thomas B. Lockwood"
                   spec: "p16694coll1"
                 - 
-                  count: "315"
+                  count: "316"
                   name: "Twentieth Century Club of Buffalo"
                   spec: "p16694coll1"
               name: "University at Buffalo"
-              total: "2947"
+              total: "2948"
         - 
           name: "Government Agencies"
-          total: "69482"
+          total: "68177"
           provider: 
             - 
               coll: 
-                count: "57833"
-                name: "New York State Library-Digital Collections"
+                count: "56528"
+                name: "New York State Library-New York State Publications"
                 spec: "library1_lib"
               name: "New York State Library"
-              total: "57833"
+              total: "56528"
             - 
               coll: 
                 - 
@@ -1641,6 +1757,16 @@
     owners: 
       owner: 
         - 
+          council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-67081"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "Crandall Public Library"
+          total: "181"
+        - 
           council: "Northern New York Library Network"
           coll: 
             - 
@@ -1652,11 +1778,11 @@
               total: "452"
               spec: "p16694coll9"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64703"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66219"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Adirondack Architectural Heritage"
           total: "1043"
         - 
@@ -1683,11 +1809,11 @@
               total: "4"
               spec: "als"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65716"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67232"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Albany Law School"
           total: "30"
         - 
@@ -1710,11 +1836,11 @@
               total: "1"
               spec: "p16694coll26"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65317"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66833"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Albany Public Library"
           total: "429"
         - 
@@ -1724,11 +1850,11 @@
             total: "266"
             spec: "p261501coll7"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65480"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66996"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Alfred University"
           total: "266"
         - 
@@ -1743,45 +1869,45 @@
               total: "9"
               spec: "alf"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65736"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67252"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Altamont Free Library"
           total: "10"
         - 
           council: {}
           coll: 
             name: "American Jewish Joint Distribution Committee Archives"
-            total: "9"
+            total: "35"
             spec: "jdc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65737"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67227"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "American Jewish Joint Distribution Committee Archives"
-          total: "9"
+          total: "35"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65594"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67110"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "American Pomeroy Historic Genealogical Association"
           total: "152"
         - 
           council: "Rochester Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65528"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67044"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Appellate Division, Fourth Department Law Library"
           total: "218"
         - 
@@ -1848,11 +1974,11 @@
               total: "46"
               spec: "bard"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65245"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66761"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Bard College. Bard College Archives"
           total: "501"
         - 
@@ -1862,11 +1988,11 @@
             total: "44"
             spec: "bpl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65702"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67218"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Bethlehem Public Library"
           total: "44"
         - 
@@ -1881,11 +2007,11 @@
               total: "251"
               spec: "fulton_collection"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65418"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66934"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Brooklyn Public Library"
           total: "328"
         - 
@@ -1920,11 +2046,11 @@
               total: "12"
               spec: "VHB001"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65418"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66934"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Buffalo & Erie County Public Library"
           total: "328"
         - 
@@ -1934,11 +2060,11 @@
             total: "6125"
             spec: "BSM001"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-59621"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-61137"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Buffalo Museum of Science"
           total: "6125"
         - 
@@ -1953,21 +2079,21 @@
               total: "20"
               spec: "R6A001"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65656"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67172"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Buffalo Niagara Heritage Village"
           total: "90"
         - 
           council: "Western New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65328"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66844"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Buffalo Olmsted Parks Conservancy"
           total: "418"
         - 
@@ -1986,21 +2112,21 @@
               total: "19"
               spec: "p16694coll13"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65679"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67195"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Canastota Public Library"
           total: "67"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65726"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67242"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Capital District Library Council"
           total: "20"
         - 
@@ -2010,11 +2136,11 @@
             total: "98"
             spec: "cazcoll01"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65648"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67164"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Cazenovia\n      College. Library"
           total: "98"
         - 
@@ -2024,41 +2150,62 @@
             total: "17"
             spec: "ZCQ001"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65729"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67245"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Center for Inquiry Libraries"
           total: "17"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65695"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67211"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Central New York Library Resources Council"
           total: "51"
         - 
           council: "Western New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65518"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67034"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Chautauqua County Historical Society"
           total: "228"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "Business"
+              total: "134"
+              spec: "chs"
+            - 
+              name: "Farms"
+              total: "22"
+              spec: "chs"
+            - 
+              name: "People"
+              total: "166"
+              spec: "chs"
+            - 
+              name: "Places"
+              total: "52"
+              spec: "chs"
+            - 
+              name: "RR"
+              total: "36"
+              spec: "chs"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64956"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66472"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Chester Historical Society"
           total: "790"
         - 
@@ -2077,21 +2224,21 @@
               total: "4"
               spec: "cphpl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65208"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66724"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Clifton Park-Halfmoon Public Library"
           total: "538"
         - 
           council: "South Central Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65694"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67210"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Corning Community College"
           total: "52"
         - 
@@ -2103,28 +2250,28 @@
               spec: "cornpl"
             - 
               name: "Cornwall Public Library Oral History Collection"
-              total: "4"
+              total: "9"
               spec: "cornpl"
             - 
               name: "Cornwall Public Library Postcard Collection"
               total: "84"
               spec: "cornpl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65648"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67159"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Cornwall Public Library"
-          total: "98"
+          total: "103"
         - 
           council: "Western New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65716"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67232"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "D'Youville College"
           total: "30"
         - 
@@ -2134,11 +2281,11 @@
             total: "30"
             spec: "dewitt01"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65716"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67232"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "DeWitt Community Library"
           total: "30"
         - 
@@ -2157,11 +2304,11 @@
               total: "174"
               spec: "dudleyo"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65506"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67022"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Dudley Observatory"
           total: "240"
         - 
@@ -2180,11 +2327,11 @@
               total: "9"
               spec: "p16694coll38"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65711"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67227"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Dunham Public Library"
           total: "35"
         - 
@@ -2203,21 +2350,21 @@
               total: "1"
               spec: "eplm"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65213"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66729"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Ellenville Public Library & Museum"
           total: "533"
         - 
           council: "South Central Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65640"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67156"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Elmira College"
           total: "106"
         - 
@@ -2227,11 +2374,11 @@
             total: "4"
             spec: "YJL"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65742"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67258"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Erie Community College"
           total: "4"
         - 
@@ -2241,21 +2388,21 @@
             total: "216"
             spec: "srr_enhs"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65530"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67046"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Erieville-Nelson Heritage Society"
           total: "216"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65499"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67015"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Fayetteville Free Library"
           total: "247"
         - 
@@ -2265,21 +2412,21 @@
             total: "143"
             spec: "italianPamp"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65603"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67119"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Fordham University"
           total: "143"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65671"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67187"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Fort Plain Free Library"
           total: "75"
         - 
@@ -2294,21 +2441,21 @@
               total: "2"
               spec: "fdr"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65663"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67179"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Franklin D. Roosevelt Presidential Library and Museum"
           total: "83"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65639"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67155"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Fulton-Montgomery Community College"
           total: "107"
         - 
@@ -2318,11 +2465,11 @@
             total: "43"
             spec: "YJA"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65703"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67219"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Genesee Community College"
           total: "43"
         - 
@@ -2357,11 +2504,11 @@
               total: "414"
               spec: "p15109coll6"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-62348"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-63864"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Geneva Historical Society"
           total: "3398"
         - 
@@ -2371,11 +2518,11 @@
             total: "131"
             spec: "JSY"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65615"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67131"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Geneva Public Library"
           total: "131"
         - 
@@ -2385,11 +2532,11 @@
             total: "281"
             spec: "tupper"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65449"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66965"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Goff-Nelson Memorial Library"
           total: "297"
         - 
@@ -2404,11 +2551,11 @@
               total: "37"
               spec: "srr_ham"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65692"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67208"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Hamilton Public Library"
           total: "54"
         - 
@@ -2418,21 +2565,25 @@
             total: "70"
             spec: "HarrisonDigital"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65676"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67192"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Harrison Public Library"
           total: "70"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "219"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65527"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67043"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Haverstraw King's Daughters Public Library"
           total: "219"
         - 
@@ -2447,11 +2598,11 @@
               total: "27"
               spec: "p15109coll1"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65673"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67189"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Henrietta Public Library"
           total: "73"
         - 
@@ -2461,21 +2612,21 @@
             total: "19"
             spec: "NYCSN"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65727"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67243"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Herschell Carrousel Factory Museum"
           total: "19"
         - 
           council: "Rochester Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65624"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67140"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Highland Hospital. Library"
           total: "122"
         - 
@@ -2522,11 +2673,11 @@
               total: "40"
               spec: "hhs"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64862"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66378"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Historic Huguenot Street"
           total: "884"
         - 
@@ -2545,31 +2696,66 @@
               total: "31"
               spec: "p277601coll11"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65400"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66916"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Hobart and William Smith Colleges. Warren Hunting Smith Library"
           total: "346"
         - 
-          council: "Southeastern New York Library Resources Council"
+          council: {}
+          coll: 
+            name: "Arts and Culture Collection"
+            total: "101"
+            spec: "hcc_hostosarts"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64960"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67161"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "Hostos Community College"
+          total: "101"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          coll: 
+            - 
+              name: "1909 Hudson-Fulton Celebration"
+              total: "3"
+              spec: "hrvi"
+            - 
+              name: "Atlas of the Hudson River Valley from New York City to Troy"
+              total: "41"
+              spec: "hrvi"
+            - 
+              name: "John Burroughs Postcard Collection"
+              total: "18"
+              spec: "hrvi"
+            - 
+              name: "Ulster County Postcards"
+              total: "458"
+              spec: "hrvi"
+            - 
+              name: "Willie Family Civil War Collection"
+              total: "7"
+              spec: "hrvi"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-66476"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Hudson River Valley Institute"
           total: "786"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65605"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67121"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Hudson Valley Community College"
           total: "141"
         - 
@@ -2584,31 +2770,31 @@
               total: "845"
               spec: "p4020coll5"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64806"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66322"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Ithaca College"
           total: "940"
         - 
           council: "Western New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65698"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67214"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Lewiston Public Library"
           total: "48"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-63605"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-65121"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Liverpool Public Library"
           total: "2141"
         - 
@@ -2618,11 +2804,11 @@
             total: "517"
             spec: "p15004coll9"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65229"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66745"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Lockport\n              Public Library"
           total: "517"
         - 
@@ -2637,91 +2823,99 @@
               total: "7"
               spec: "maria"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65685"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67201"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Maria College"
           total: "61"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Marlboro Free Library"
+            total: "75"
+            spec: "marlboro"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65671"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67187"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Marlboro Free Library"
           total: "75"
         - 
           council: "South Central Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65475"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66991"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "McGraw Historical Society"
           total: "271"
         - 
           council: "Rochester Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65698"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67214"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Mendon Public Library"
           total: "48"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65591"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67107"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Middleburgh Library"
           total: "155"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
             name: "Library Association of Rockland County"
-            total: "2"
+            total: "18"
             spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65744"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67244"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Nanuet Public Library"
-          total: "2"
+          total: "18"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "384"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65363"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66878"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New City Library"
-          total: "383"
+          total: "384"
         - 
           council: "Metropolitan New York Library Council"
           coll: 
             name: "Cartes de Visite Collection"
-            total: "227"
+            total: "223"
             spec: "nyam_cartesdevisites"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65519"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67039"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New York Academy of Medicine"
-          total: "227"
+          total: "223"
         - 
           council: {}
           coll: 
@@ -2739,16 +2933,16 @@
               spec: "MusicScores"
             - 
               name: "New York Philharmonic Program Collection"
-              total: "12942"
+              total: "12859"
               spec: "Programs"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-30872"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-32471"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New York Philharmonic Leon Levy Digital Archives"
-          total: "34874"
+          total: "34791"
         - 
           council: {}
           coll: 
@@ -2777,27 +2971,27 @@
               total: "622"
               spec: "2965"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-54097"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-55613"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New York State Archives"
           total: "11649"
         - 
           council: {}
           coll: 
-            name: "New York State Library-Digital Collections"
-            total: "57833"
+            name: "New York State Library-New York State Publications"
+            total: "56528"
             spec: "library1_lib"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-7913"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-10734"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New York State Library"
-          total: "57833"
+          total: "56528"
         - 
           council: "Capital District Library Council"
           coll: 
@@ -2811,20 +3005,20 @@
               spec: "nysmm"
             - 
               name: "Civil War Carte de Visite Collection"
-              total: "1492"
+              total: "2608"
               spec: "nysmm"
             - 
               name: "Diaries"
               total: "2"
               spec: "nysmm"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-61651"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-62051"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New York State Military Museum"
-          total: "4095"
+          total: "5211"
         - 
           council: "Metropolitan New York Library Council"
           coll: 
@@ -2837,11 +3031,11 @@
               total: "2088"
               spec: "nyhs_bracklow"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-47469"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-48985"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "New-York Historical Society"
           total: "18277"
         - 
@@ -2856,11 +3050,11 @@
               total: "59"
               spec: "p15109coll4"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65676"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67192"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Newark Public Library"
           total: "70"
         - 
@@ -2876,7 +3070,7 @@
               spec: "newburgh"
             - 
               name: "Glebe Documents Collection"
-              total: "59"
+              total: "97"
               spec: "newburgh"
             - 
               name: "Hudson-Fulton Celebration, 1909"
@@ -2891,13 +3085,13 @@
               total: "14"
               spec: "newburgh"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65458"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66931"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Newburgh Free Library"
-          total: "288"
+          total: "331"
         - 
           council: "Western New York Library Resources Council"
           coll: 
@@ -2910,11 +3104,11 @@
               total: "14"
               spec: "p15004coll9"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65541"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67057"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Niagara\n              Falls Public Library"
           total: "205"
         - 
@@ -2924,11 +3118,11 @@
             total: "50"
             spec: "NYNCH"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65696"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67212"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Niagara County Historical Society"
           total: "50"
         - 
@@ -2938,21 +3132,21 @@
             total: "294"
             spec: "p15004coll9"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65452"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66968"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Niagara Falls Public Library"
           total: "294"
         - 
           council: "Western New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65743"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67259"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Niagara University"
           total: "3"
         - 
@@ -2967,23 +3161,27 @@
               total: "11"
               spec: "nor"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65734"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67250"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Northville Public Library"
           total: "12"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Nyack Library"
+            total: "5673"
+            spec: "nyacklib"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-60135"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-61589"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Nyack Library"
-          total: "5611"
+          total: "5673"
         - 
           council: "Western New York Library Resources Council"
           coll: 
@@ -2991,21 +3189,21 @@
             total: "11"
             spec: "VXU"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65735"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67251"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Olean Public Library"
           total: "11"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65745"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67261"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Oneida Public Library"
           total: "1"
         - 
@@ -3024,11 +3222,11 @@
               total: "15"
               spec: "srr_ocpl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64699"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66215"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Onondaga\n      County Public Library. Local History & Genealogy Department"
           total: "1047"
         - 
@@ -3038,11 +3236,11 @@
             total: "93"
             spec: "p16694coll6"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65652"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67168"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Onondaga Community College. Library"
           total: "94"
         - 
@@ -3052,23 +3250,27 @@
             total: "35"
             spec: "srr_mundy"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65711"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67227"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Onondaga County Public Library. Mundy Branch Library"
           total: "35"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "618"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65413"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66644"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Palisades Free Library"
-          total: "333"
+          total: "618"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
@@ -3076,31 +3278,39 @@
             total: "1046"
             spec: "pipc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64356"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-65872"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Palisades Interstate Park Commission"
           total: "1390"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "144"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65602"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67118"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Pearl River Library"
           total: "144"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "232"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65514"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67030"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Piermont Public Library"
           total: "232"
         - 
@@ -3235,43 +3445,57 @@
               total: "352"
               spec: "collection9443"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-56180"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-57696"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Queens Borough Public Library"
           total: "9566"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65726"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67242"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Remsen Steuben Historical Society"
           total: "20"
         - 
           council: "Rochester Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65501"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67017"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Rochester Museum & Science Center"
           total: "245"
         - 
           council: "Rochester Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65661"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67177"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Rochester Public Library"
           total: "85"
+        - 
+          council: "Capital District Library Council"
+          coll: 
+            name: "Rudolf Steiner Library of the Anthroposophical Society"
+            total: "137"
+            spec: "nyrud"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-67125"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "Rudolf Steiner Library of the Anthroposophical Society in America"
+          total: "137"
         - 
           council: "Central New York Library Resources Council"
           coll: 
@@ -3279,11 +3503,11 @@
             total: "739"
             spec: "p16694coll25"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64796"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66312"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "SUNY College of Environmental Science and Forestry"
           total: "950"
         - 
@@ -3293,11 +3517,11 @@
             total: "1363"
             spec: "XFM001"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64383"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-65899"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "SUNY Fredonia"
           total: "1363"
         - 
@@ -3325,16 +3549,16 @@
               spec: "p277601coll3"
             - 
               name: "Martha Blow Wadsworth Photograph Collection"
-              total: "95"
+              total: "98"
               spec: "p277601coll3"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65402"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66915"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "SUNY Geneseo. Milne Library"
-          total: "344"
+          total: "347"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
@@ -3355,11 +3579,11 @@
               total: "14"
               spec: "sunynp"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65646"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67162"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "SUNY New Paltz. Sojourner Truth Library"
           total: "100"
         - 
@@ -3382,11 +3606,11 @@
               total: "87"
               spec: "supl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65328"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66844"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "SUNY Plattsburgh. Feinberg Library. Special Collections"
           total: "418"
         - 
@@ -3429,11 +3653,11 @@
               total: "131"
               spec: "sunyup01"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64740"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66256"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "SUNY Upstate Medical University. Health Sciences Library"
           total: "1006"
         - 
@@ -3443,11 +3667,11 @@
             total: "9"
             spec: "salfree"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65737"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67253"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Salina Free Library"
           total: "9"
         - 
@@ -3462,11 +3686,11 @@
               total: "21"
               spec: "sspl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65708"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67224"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Saratoga Springs Public Library"
           total: "38"
         - 
@@ -3476,11 +3700,11 @@
             total: "60"
             spec: "BUF005"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65686"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67202"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Sardinia Historical Society"
           total: "60"
         - 
@@ -3496,24 +3720,34 @@
               spec: "scpl"
             - 
               name: "Starkweather Room Photograph Collection"
-              total: "204"
+              total: "314"
               spec: "scpl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64878"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66284"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Scarsdale Public Library"
-          total: "868"
+          total: "978"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65599"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67214"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "Schenectady County Historical Society"
+          total: "48"
+        - 
+          council: "Capital District Library Council"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-67115"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Siena College"
           total: "147"
         - 
@@ -3523,11 +3757,11 @@
             total: "26"
             spec: "srr_skanhis"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65720"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67236"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Skaneateles Historical Society"
           total: "26"
         - 
@@ -3537,11 +3771,11 @@
             total: "24"
             spec: "srr_skanlib"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65722"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67238"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Skaneateles Library Association"
           total: "24"
         - 
@@ -3551,23 +3785,23 @@
             total: "28"
             spec: "srr_sghs"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65718"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67234"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Solvay-Geddes Historical Society"
           total: "28"
         - 
           council: "Northern New York Library Network"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64061"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-65254"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "St. Lawrence-Lewis School Library System"
-          total: "1685"
+          total: "2008"
         - 
           council: "Capital District Library Council"
           coll: 
@@ -3575,23 +3809,27 @@
             total: "246"
             spec: "schmuse"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65480"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66996"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Steinmetz Digital Collection of Schenectady"
           total: "266"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "318"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65657"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66944"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Suffern Free Library"
-          total: "89"
+          total: "318"
         - 
           council: "Central New York Library Resources Council"
           coll: 
@@ -3599,21 +3837,25 @@
             total: "55"
             spec: "srr_sph"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65691"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67207"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Syracuse Polish Home"
           total: "55"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "104"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65642"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67158"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Tappan Library"
           total: "104"
         - 
@@ -3636,11 +3878,11 @@
               total: "25"
               spec: "VTP005"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65652"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67168"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The Buffalo History Museum"
           total: "94"
         - 
@@ -3675,11 +3917,11 @@
               total: "2"
               spec: "strose"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65392"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66908"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The College of Saint Rose"
           total: "354"
         - 
@@ -3691,24 +3933,24 @@
               spec: "cia_menu"
             - 
               name: "Historical Menus"
-              total: "2008"
+              total: "2071"
               spec: "cia_menu"
             - 
               name: "International Menus"
-              total: "561"
+              total: "564"
               spec: "cia_menu"
             - 
               name: "S. S. Cleveland Around the World Cruise"
               total: "33"
               spec: "cia_menu"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-63414"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-64867"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The Culinary Institute of America"
-          total: "2332"
+          total: "2395"
         - 
           council: "Central New York Library Resources Council"
           coll: 
@@ -3716,21 +3958,21 @@
             total: "26"
             spec: "srr_ecm"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65720"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67236"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The Erie Canal Museum"
           total: "26"
         - 
           council: "South Central Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65623"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67139"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The History Center in Tompkins County"
           total: "123"
         - 
@@ -3740,33 +3982,37 @@
             total: "125"
             spec: "bronxpark_collection"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65621"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67137"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The New York Botanical Garden"
           total: "125"
         - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65372"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66888"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "The Sage Colleges"
           total: "374"
         - 
           council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "148"
+            spec: "larc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65599"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67114"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Tomkins Cove Public Library"
-          total: "147"
+          total: "148"
         - 
           council: "Capital District Library Council"
           coll: 
@@ -3774,11 +4020,11 @@
             total: "27"
             spec: "tobcl"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65715"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67231"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Town of Ballston Community Library"
           total: "31"
         - 
@@ -3810,16 +4056,16 @@
               spec: "p16694coll1"
             - 
               name: "Twentieth Century Club of Buffalo"
-              total: "315"
+              total: "316"
               spec: "p16694coll1"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-62799"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-64314"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "University at Buffalo"
-          total: "2947"
+          total: "2948"
         - 
           council: {}
           coll: 
@@ -3827,11 +4073,11 @@
             total: "2"
             spec: "islandora_2599"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65744"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67260"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "University of Rochester, River Campus\n                    Libraries"
           total: "2"
         - 
@@ -3846,11 +4092,11 @@
               total: "47"
               spec: "islandora_2377_1"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65596"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67112"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "University of Rochester, River Campus Libraries"
           total: "150"
         - 
@@ -3860,11 +4106,11 @@
             total: "87"
             spec: "p277601coll6"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65659"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67175"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "University of Rochester. Medical Center. Eastman Institute for Oral Health"
           total: "87"
         - 
@@ -3947,13 +4193,13 @@
               total: "1"
               spec: "p277601coll5"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64406"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-65919"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "University of Rochester. Memorial Art Gallery"
-          total: "1340"
+          total: "1343"
         - 
           council: "Central New York Library Resources Council"
           coll: 
@@ -3961,13 +4207,27 @@
             total: "32"
             spec: "srr_utica"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65714"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67230"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Utica Public Library"
           total: "32"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "348"
+            spec: "larc"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-66914"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "Valley Cottage Library"
+          total: "348"
         - 
           council: "Southeastern New York Library Resources Council"
           coll: 
@@ -4020,13 +4280,13 @@
               total: "37"
               spec: "vbmc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65158"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66490"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Vassar Brothers Medical Center"
-          total: "588"
+          total: "772"
         - 
           council: {}
           coll: 
@@ -4055,43 +4315,57 @@
               total: "56"
               spec: "vassar_diaries"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65145"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66661"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Vassar College Libraries, Poughkeepsie, N.Y"
           total: "601"
         - 
           council: "Northern New York Library Network"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65651"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67167"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Watertown Flower Memorial Library"
           total: "95"
         - 
           council: "Central New York Library Resources Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65741"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67257"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Waterville Public Library"
           total: "5"
         - 
           council: "South Central Regional Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65734"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67250"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Wells College"
           total: "12"
+        - 
+          council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Library Association of Rockland County"
+            total: "150"
+            spec: "larc"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-67112"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "West Nyack Free Library"
+          total: "150"
         - 
           council: "Metropolitan New York Library Council"
           coll: 
@@ -4099,11 +4373,11 @@
             total: "246"
             spec: "wppl_wpc"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65500"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67016"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "White Plains Public Library"
           total: "246"
         - 
@@ -4113,11 +4387,11 @@
             total: "996"
             spec: "whitneystudioclub_collection"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-64748"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66264"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Whitney Museum of American Art. Library"
           total: "998"
         - 
@@ -4127,11 +4401,11 @@
             total: "107"
             spec: "wilderstein"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65638"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-67154"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Wilderstein Historic Site"
           total: "108"
         - 
@@ -4150,28 +4424,42 @@
               total: "329"
               spec: "bronxpark_collection"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-65211"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-66727"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "Wildlife Conservation Society"
           total: "535"
         - 
+          council: "Southeastern New York Library Resources Council"
+          coll: 
+            name: "Woodstock Public Library District"
+            total: "230"
+            spec: "wp"
+          hosting-totals: 
+            nyh-total: "36011"
+            non-hosted-total: "-67032"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
+          name: "Woodstock Public Library District"
+          total: "230"
+        - 
           council: "Capital District Library Council"
           hosting-totals: 
-            nyh-total: "34895"
-            non-hosted-total: "-59481"
-            dcmny-total: "18832"
-            hrvh-total: "12019"
-            hosted-total: "65746"
+            nyh-total: "36011"
+            non-hosted-total: "-60998"
+            dcmny-total: "18828"
+            hrvh-total: "12423"
+            hosted-total: "67262"
           name: "miSci"
-          total: "6265"
+          total: "6264"
     hosting-totals: 
-      nyh-total: "34895"
-      non-hosted-total: "153821"
-      dcmny-total: "18832"
-      hrvh-total: "12019"
-      hosted-total: "65746"
-    total: "219567"
+      nyh-total: "36011"
+      non-hosted-total: "155636"
+      dcmny-total: "18828"
+      hrvh-total: "12423"
+      hosted-total: "67262"
+    total: "222898"
 
